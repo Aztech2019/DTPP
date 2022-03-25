@@ -13,6 +13,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5DTPP
+http://live.tv360.vn/manifest/u23-dubaicup1/playlist_360p.m3u8
 #https://vtvnews-livevtv.vtvdigital.vn/1e12ae5eeedc544b1288f78ec1b65850/1636642155038/vtv5/index.m3u8
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5
