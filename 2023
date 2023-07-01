@@ -2,9 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/47fpt" refresh="3600" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-
 ##VTV IPTVAZTECH
-
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
 https://vips-livecdn.fptplay.net/Tm9uZXx2dHYxaGRfdmhscy5zbWlsfGZwdHwxNjg4MjA1MDAxfDIxLjE3OC4xNDYuMjQ5fDVkMjE4YzhmMmU3ODk3ZjExYTU4NGY2MTk4MDBlZTQ1/fnxhd1/vtv1hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
