@@ -13,5 +13,13 @@ https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
 https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+
+===========K+ HD============== code vetontv
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⭕ K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jUaUlWSEeNweDa/KcGZoMw", "kid":"ofsB7FnPR369RbhxqFjrGg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bdb74b81a6197fc1eddc000b9af3ca5b/1688376368353/qnet/live_dzones/hbo.smil/manifest.mpd?codec=hvc
+
 ## ok
 
