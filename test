@@ -6,7 +6,7 @@
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 ##VTV
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://vie.haiphim.com/20230220/26381_fecad515/3000k/hls/mixed.m3u8
+https://vie.haiphim.com/20230220/26381_fecad515/3000k/hls/mixed.1
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bdb74b81a6197fc1eddc000b9af3ca5b/1688376368353/qnet/live_dzones/hbo.smil/manifest.mpd?codec=hvc
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
