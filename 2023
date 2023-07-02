@@ -252,14 +252,10 @@ https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHYxXzIwMDAuc3RyZWFtfGZwdHwxNjg4MjU
 https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHYyaGRfMjAwMC5zdHJlYW18ZnB0fDE2ODgyNTUwNDN8MjEuMTc4LjE0Ni4yNDl8OTY5NDVlM2FkMjkyMzFlMWJhMmNjNTgzODA4ZTkyZWY/epzhd1/htv2hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htv3hd" tvg-logo="https://static.megavie.live/media/htv3.png" group-title="THIẾU NHI",HTV3 
 https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHYzXzIwMDAuc3RyZWFtfGZwdHwxNjg4MjU1MDcyfDIxLjE3OC4xNDYuMjQ5fGYxNzk3Nzk5M2QxZjNiNmIxZDM2ZjMxMGQ3NGIzZDM0/epzhd1/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htv4hd" tvg-logo="https://i.imgur.com/J3fMoSF.png",HTV4 Key
-
 #EXTINF:-1 group-title="HTVC" tvg-id="htv7hd" tvg-logo="https://i.imgur.com/jeZ5Fie.png",HTV7
 https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHY3aGRfMjAwMC5zdHJlYW18ZnB0fDE2ODgyNTUxMTV8MjEuMTc4LjE0Ni4yNDl8ZTJhNzUwYmMwNWY0YjdlODAyOTJmZjY5OGY2MjFlMzQ/epzhd1/htv7hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htv9hd" tvg-logo="https://i.imgur.com/xyfYvhn.png",HTV9
 https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHY5aGRfMjAwMC5zdHJlYW18ZnB0fDE2ODgyNTUxNDR8MjEuMTc4LjE0Ni4yNDl8MzdlMjhmY2U5NjhlZmMxZTY3ZGQyOTA5ZTdiNzg1YTc/epzhd1/htv9hd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet" tvg-logo="https://static.megavie.live/media/htvcthuanviet.jpg",HTVC THUẦN VIỆT SD
-
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="http://tv.linkweb.top/image/thuanviet.png",HTVC THUẦN VIỆT HD
 https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHZjdGh1YW52aWV0aGRfMjAwMC5zdHJlYW18ZnB0fDE2ODgyNTUxODF8MjEuMTc4LjE0Ni4yNDl8MmE0YWFkNDk2ZWYxNDdmYzY3NDc3NWU2ZTkzZjdmZWY/epzhd1/htvcthuanviethd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC PHỤ NỮ
@@ -325,19 +321,8 @@ https://106bec9d8.vws.vegacdn.vn/n3KUS5NdM3mcxR453Y7s5Q/1688373883/cliptv_live/a
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab23hd" tvg-logo="https://mytv.com.vn/upload/channel/132.png",VTVCab 23 
 https://106bec9d8.vws.vegacdn.vn/guqVcH3aog9yCXEqXUeZPg/1688374774/cliptv_live/amlst:vtvcab23hd/chunklist_b5128000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd+" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVCab 3+
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVCab 3 
+https://106bec9d8.vws.vegacdn.vn/5mAeIM7I7qBbi_615Cacqg/1688374822/cliptv_live/amlst:vtvcab3hd/chunklist_b3128000.m3u8
 
-
-##############
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.viettv24.com/main/images/USVtelevision-logo.jpg", USV Television
-
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.viettv24.com/main/images/VietMediaTV_logo.jpg", VIETMedia TV
-
-#EXTINF:-1 tvg-logo="https://www.viettv24.com/main/images/skcd.jpg" group-title="HẢI NGOẠI", Sân Khấu & Cuộc Đời
-
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.viettv24.com/main/images/VpopTV_logo.jpg", VPOP - VBolero
-
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.viettv24.com/main/images/Vo_Mon_Thien_Tu.jpg",THIỀN VÀ ĐỜI SỐNG
 
 
 ##THIẾU NHI
@@ -345,6 +330,7 @@ https://106bec9d8.vws.vegacdn.vn/guqVcH3aog9yCXEqXUeZPg/1688374774/cliptv_live/a
 #EXTINF:-1 group-title="THIẾU NHI" tvg-id="htv3hd" tvg-logo="https://static.megavie.live/media/htv3.png"https://vips-livecdn.fptplay.net/NDQ2NzAyOHxodHYzXzIwMDAuc3RyZWFtfGZwdHwxNjg4MjU2ODc3fDIxLjE3OC4xNDYuMjQ5fDUzMDhiODdkN2RiZDAyOTlkMWQyNDExYTI4MDA5YTNj/epzhd1/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-id="animaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png",Animax
 http://14.187.148.250:8080/live/animax/index.m3u8?token=lwFi9gmD4Ynz3PmOBfxZWA&e=1688281290
+
 #EXTINF:-1 group-title="THIẾU NHI" tvg-id="boomeranghd" tvg-logo="https://i.imgur.com/nqg0SN2.png",Boomerang
 http://115.72.30.67:8080/live/boomerang/index.m3u8?token=xM2M3ZZVUNMq7hQF7asMqg&e=1688281211
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://onetv.click/logo/babytvhd.jpg",Baby TV
@@ -427,7 +413,7 @@ https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/4300.m3u8
 ##K+
 #EXTINF:0 group-title="🍬| K+" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/MyKplus_logo_2016_v2.png/revision/latest?cb=20201129022309&path-prefix=vi",Xem trên Tivimate
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/ccKsctv9
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
@@ -530,28 +516,6 @@ http://gg.gg/ccKcinemax
 https://live.vegacdn.kplus.vn/live/prod_cinemax_fps/prod_cinemax_fps.isml/prod_cinemax_fps.mpd
 
 
-##JAPAN
-#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="NHẬT BẢN", TV Asahi
-http://203.162.235.41:16906
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="NHẬT BẢN", Nippon TV
-http://203.162.235.41:16905
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="NHẬT BẢN", TBS TV
-http://203.162.235.41:16907
-
-##SPORT 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png" ,Canal+ SPORT HD
-#EXTVLCOPT:http-user-agent="BearTV"
-http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rpbknQs/Canal-Sport-2-BEARTV.png",Canal+ SPORT 2 HD
-#EXTVLCOPT:http-user-agent="BearTV"
-http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/mTg3L5z/Canal-Sport-3-BEARTV.png",Canal+ SPORT 3 HD
-#EXTVLCOPT:http-user-agent="BearTV"
-http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
-
-
 ===========K+ HD============== code vetontv
 #EXTINF:-1 tvg-id="ksport1hd" group-title="⭕ K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -569,11 +533,10 @@ https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bdb74b81a6197fc1eddc000b9af3ca5b/1
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bdb74b81a6197fc1eddc000b9af3ca5b/1688376368353/qnet/live_dzones/hbo.smil/manifest.mpd?codec=hvc
 
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="⭕ K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"z86R/Y0fpCOtHF3mzGhwKQ", "kid":"pncQ9kMdRMKnv1XgS89Xrw" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/e899e16cbce208b242761bcd3a5e1099/1688382470660/qnet/live_dzones/wtv.smil/manifest.mpd?codec=hvc
 
 #EXTINF:-1 tvg-id="klifehd" group-title="⭕ K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -585,50 +548,8 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RZ1IFc2kSA1zb2qsl6rgng", "kid":"2ZnuZgUTS9S0NCPGGeceEw" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
-#======================VTVcab=======================
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab1hd", VTVCab1 HD - Vie Giải Trí
-https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab2hd", ON Phim Việt
-https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
-
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab4hd", VTVCab4 HD
-https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab5hd", VTVCab5 HD - E Channel
-https://856175157.r.vtvcdn.com/ondrm/E_CHANNEL/m30_index.m3u8
-
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab7hd", VTVCab7 HD
-https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab8hd", VTVCab8 - BiBi
-https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab9hd", VTVcab 9 - InfoTV
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab10hd", ON Cine
-https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab12hd", VTVCab12 - Style TV
-https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab15hd", VTVcab15
-
-https://856175157.r.vtvcdn.com/ondrm/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab17hd", VTVCab17 - Yeah1 TV
-https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
-
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab19hd", VTVCab19 HD - Vie DRAMAS
-https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab20hd", VTVCab20 - V Family
-https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab20hd", VTVCab21 HD - BiBi+
-https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab20hd", VTVCab22 HD - Life TV
-https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 
 #===================add====================
-##BẮC CẠN 
- #https://vips-livecdn.fptplay.net/NDQ2NzAyOHxiYWNrYW5fMjAwMC5zdHJlYW18ZnB0fDE2ODgyMjM1MzJ8MjEuMTc4LjE0Ni4yNDl8NDVjNDA1ZjcyMWRhOWYwMmE2OTUzOTQ0NDMyMWQxMWU/fnxsd1/backan_2000.stream/chunklist.m3u8     
-	  
-	 #© 2021 AZTECH DTPP TRINGUYEN90 
-	  ##BTV3
-	  
-##https://vips-livecdn.fptplay.net/NDQ2NzAyOHxiaW5oZHVvbmczXzIwMDAuc3RyZWFtfGZwdHwxNjg4MjI0MTQwfDIxLjE3OC4xNDYuMjQ5fDQ5YThmOTMxNzM1ODk3YjdhOWM0YWNhZTUwYmM3MWRj/epzsd1/binhduong3_2000.stream/chunklist.m3u8
 	  #© 2021 AZTECH TRINGUYEN90 
 	  ##BTV3
 Nhập bình luận của bạn vào ô dưới
