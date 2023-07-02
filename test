@@ -9,4 +9,6 @@ test link
 https://live-on-v2-cdnetwork.sigmaott.com/manifest/vtv5/master.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
 https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
+https://live-ali4.tv360.vn/manifest/SCTV2_HD/playlist_1080p.m3u8
 ## ok
