@@ -6,7 +6,8 @@
 ##VTV IPTVAZTECH
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://vips-livecdn.fptplay.net/Tm9uZXx2dHYxaGRfdmhscy5zbWlsfGZwdHwxNjg4MjA1MDAxfDIxLjE3OC4xNDYuMjQ5fDVkMjE4YzhmMmU3ODk3ZjExYTU4NGY2MTk4MDBlZTQ1/fnxhd1/vtv1hd_vhls.smil/chunklist_b1800000.m3u8
+https://vips-livecdn.fptplay.net/NDQ2NzAyOHx2dHYxaGRfNDAwMC5zdHJlYW18ZnB0fDE2ODgyOTIzMjJ8MjEuMTc4LjE0Ni4yNDl8NmRlMjZmMGZkZTk4MTI2NDkwYjIwMjg0Nzg3MTJiNDM/fnxhd1/vtv1hd_4000.stream/chunklist.m3u8
+#https://106135605.vws.vegacdn.vn/482bv5vwwVVFbTo6OyFxxg/1688378827/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
 https://vips-livecdn.fptplay.net/NDQ2NzAyOHx2dHYyX3ZobHMuc21pbHxmcHR8MTY4ODIwNzM2OHwyMS4xNzguMTQ2LjI0OXxlNzI1NjU3NjI0YTNjODZiZTc4N2RiOTVlNTM0NWY0Mg/fnxhd1/vtv2_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3
