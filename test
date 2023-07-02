@@ -10,7 +10,7 @@ https://vie.haiphim.com/20230220/26381_fecad515/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
 https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
-http://14.187.148.250:8080/live/cinemax/index.m3u8?token=Nb5G1wDIjtFRRbuSk_fH_A&e=1688280757
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
 https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 ## ok
