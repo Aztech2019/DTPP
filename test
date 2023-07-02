@@ -10,7 +10,7 @@ https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/38ca520dcb3ccdbc7983af86506b747d/1
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
 https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
-https://live-on-sigma-drm-v2-vtvlive.gviet.vn/manifest/vtvcab13/master.m3u8
+http://14.187.148.250:8080/live/cinemax/index.m3u8?token=Nb5G1wDIjtFRRbuSk_fH_A&e=1688280757
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
 http://27.75.133.125:8080/live/hbo/index.m3u8?token=rZxX9-hCIUw9ENW-NQm4Ng&e=1688280609
 ## ok
