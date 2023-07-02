@@ -1,0 +1,863 @@
+#EXTM3U
+
+--------INTRO-------
+
+#EXTINF:-1 group-title="XEM KHO 18.000 PHIM" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",LIÊN HỆ ZALO - 0898.580.569
+http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
+
+#EXTINF:-1 group-title="Free HBO/CINEMAX/SPORTS+" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",Telegram - https://t.me/TV24sharing
+http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
+
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/12/cau-chuyen-luc-nua-dem-fpt-play-1681283587189_Landscape.jpg",🇺🇸| Câu Chuyện Lúc Nửa Đêm
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230417/goosebumps-2015-us-f-1681737955/d72e460cdcd623267d8ac8198afff8ae.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/09/20/aladin-va-than-den-sieu-quay-fpt-play-1663663610820_Landscape.jpg",🇺🇸| Aladin Và Thần Đèn Siêu Quậy
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220923/alad2-2018-fr-logof-1663898332/c31d7e4e2ed707488e8f8ee1b169fbec.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/12/10/1681268503161/91048244154b_640_360.jpg",🇰🇷| Học Kỳ Sinh Tử P1
+https://vod-zlr2.tv360.vn/video1/2023/03/30/14/c7107f10/c7107f10-45b8-49ae-a14a-97b9f4e741fe_5_.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/13/17/e5bcc8aa/e5bcc8aa-ba9e-45cd-82e9-67a88885ad2c_640_360.jpg",🇰🇷| Học Kỳ Sinh Tử P2
+https://vod-zlr2.tv360.vn/video1/2023/04/13/15/5be263de/5be263de-9378-4b63-888b-7d1d7313eb25_5_.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/10/07/linh-hon-trai-dat-fpt-play-1665114099595_Landscape.jpg",🇺🇸| Final Fantasy: Linh Hồn Trái Đất
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221008/finalfantasythespiritswithin-2001-us-logof/0bb18e96190605008f78b4275101b6cf.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/04/07/final-fantasy-xv-doi-ve-binh-tinh-nhue-fpt-play-1680857266492_Landscape.jpg",🇺🇸| Final Fantasy XV: Đội Vệ Binh Tinh Nhuệ
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230410/kingsglaivefinalfantasyxv-2016-us-logo-1681116019/437c004db7cbd273f3ad385a8a30432f.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/title_card_dark/2023/02/08/ca6bbemf_title-nenden_815_255.png",🇻🇳| Sài Gòn - Anh Yêu Em
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230117/sai-gon-anh-yeu-em-2016-vn-logof-1673973927/8cc51f7e35032f031aed521c022b3ad0.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ytimg.com/vi/NFKVh-oJmSc/maxresdefault.jpg",🇻🇳| Sài Gòn Trong Cơn Mưa
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220131/saigonintherain_2020_vn_1080p_logofptplay/fd9e65ae078b6e93176280c0542222b3.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/01/12/tinh-dau-tho-ngay-fpt-play-1673508534829_Landscape.jpg",🇻🇳| Tình Đầu Thơ Ngây
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230113/tinh-dau-tho-ngay-2019-vn-logo-f-1673610208/2cd6f0ddbe5e5912ee55e5c2e56bdd6b.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/20/alien-domicile20-05-2022_09g27-04.jpg",🇺🇸| Người Ngoài Hành Tinh
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20180112/aliendomicilemastercrop-logo/fd7ef8405c6a9821a2370e94f9e61029-720p.mp4/chunklist.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/title_card_dark/2021/07/12/oafuq4zc_title-bietdoisanma-nenden_815_255.png",🇺🇸| Biệt Đội Săn Ma
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20221123/ghostbusters-1984-us-logof-v2/a31ae5ff98099d2d517d61cafd591a8f-1080p.mp4/chunklist.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/10/24/19/09a3575f/09a3575f-a493-48fd-91b0-1d2ff8547b08_640_360.jpg",🇨🇳| Thánh Hiệp 2
+http://vod-zlr2.tv360.vn/video1/2022/10/24/20/66c404c0/66c404c0-21c1-47ae-8be6-52da70cfa6c8_4_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/10/24/14/c64ff012/c64ff012-2b83-406c-91ba-21dfe59d2001_640_360.jpg",🇨🇳| Bản Lĩnh Đàn Ông
+http://vod-zlr2.tv360.vn/video1/2022/10/24/14/b752a666/b752a666-e9b1-4cf1-b38a-6f356d0195e8_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_hot_v4/2020/12/25/wp38w3qg_1920x1080-thanbai3thieunienthanbai_782_432.jpg",🇨🇳| Thiếu Niên Thần Bài
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230115/godofgamblers3theearlystage-1996-hk-tm-1673761271/3f64b1841a11bd96a3044caed80d74e8.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/01/05/than-bai-2-fpt-play-1672913190887_Landscape.jpg",🇨🇳| Thần Bài 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230115/godofgamblersii-1990-hk-tm-1673761275/0c11cd727a7a8e3c74afe1ccf4e7cb46-1080p.mp4/chunklist_w485397392.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/01/09/than-bai-3-tro-ve-thuong-hai-fpt-play-1673254396353_Landscape.jpg",🇨🇳| Thần Bài 3: Trở Về Thượng Hải
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/maudio/encoded/20230112/godofgamblersiiibacktoshanghai-1991-hk-tm-1673493313/128ff19797220f7df5a6ceafbe35b0f7.smil/chunklist_w578386168_b4392000_vo.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/24/lac-ngoai-khong-gian-fpt-play-1669283434616_Landscape.jpg",🇺🇸| Lạc Ngoài Không Gian
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221126/zathuraaspaceadventure-2005-us-logof/8fc5e82de50947cc9cd8119f1a42db7b.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/14/quai-vat-tren-hanh-tinh-la-fpt-play-1676353028874_Landscape.jpg",🇺🇸| Quái Vật Trên Hành Tinh Lạ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230216/pitchblack-2000-us-1676565436/7c88c817ce8f56c2817654bcc3d563c6.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/31/14/1675151032343/0a55be00887e_640_360.jpg",🇺🇸| Kẻ Du Hành Trên Mây
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230118/aeronauts-2019-us-logof-1674033271/5fd98bb9a4ecc3d04f3161a9b400afd2.smil/chunklist_w1155163261_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/01/17/vua-bo-cap-fpt-play-1673949946500_Landscape.jpg",🇺🇸| Vua Bọ Cạp
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230119/thescorpionking-2002-us-1674117069/ce1b5ba1e0ea07759e5061c22c542d8a.smil/chunklist_w1637304341_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/09/07/bbgomzo2fxpzyynljug5waw5wza07-09-2022_05g38-39.jpg",🇺🇸| Steve Job
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220713/jobs-2013-us-1080p-sub-logofptplay/e316f25c48c67b19b00f100048b76c11.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/02/08/ronaldo-fpt-play-1675845517376_Landscape.jpg",🇺🇸| Ronaldo
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230210/ronaldo-2015-gb-1676014289/60f792c141f88caaaa75809d0826fb0d.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/04/21/beast_2017_gb_bghd21-04-2022_17g11-38.jpg",🇺🇸| Quái Vật
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220425/beast_2017_gb_1080p_sub_logofptplay/58fc4c841edf64361a282d5f209edf90_1080p.mp4/chunklist.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/12/12/tro-choi-ma-quy-fpt-play-1670831978935_Landscape.jpg",🇺🇸| Trò Chơi Ma Quỷ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221212/thegame-1997-us-logof/5a2255d337b5ef46b3f047de14aab8cb.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/20/bonnie-and-clyde-vs-dracula20-05-2022_09g05-48.jpg",🇺🇸| Bonnie Và Clyde Chiến Dracula
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170506/07d7560ff77f206dad6ea805f537a049.smil/chunklist_b1998000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2023/01/27/khac-tinh-cua-ma-ca-rong-fpt-play-1674786762297_Title_Header.png",🇺🇸| Khắc Tinh Của Ma Cà Rồng
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230127/vanhelsing-2004-us-1674807275/492494edaf3a418395337d126c372cea.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ibb.co/PNhmFGp/therobot.jpg",🇺🇸| Vlad Và Tận Thế Năng Lượng
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220504/thebobot_2018_ua_1080p_sub_logofptplay/999c4120b46b8157e11b97b2767e6469.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fpt.shop/unsafe/filters:quality(5)/fptshop.com.vn/uploads/images/tin-tuc/136630/Originals/ab%20Jurassic.jpg",🇺🇸| Thế Giới Khủng Long
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221221/jurassicworld-2015-us-1671616931/e5979d520ebf957d7eb0641284c1bb97.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/01_04_2020/ablsthvjttcftw1psrvnmev5wri01-04-2020_05g43-09.jpg",🇺🇸| Công Viên Kỷ Jura 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221228/jurassicparkiii-2001-us-logof/f90ccb9cb058eaecfc4d0131116e17d5.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.vieon.vn/vieplay-image/carousel_web_v4/2020/06/14/n03uvygt_1920x1080-tudaidanhbo2.jpg",🇨🇳| Tứ Đại Danh Bổ 2
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230117/thefour2-2013-cn-logof-1673963501/f95ea1a6985043b75d0c08783a708db8-1080p.mp4/chunklist.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2022/11/14/pg7vufre_1920x1080-tudaidanhbo3_1267_712.jpeg",🇨🇳| Tứ Đại Danh Bổ 3: Trận Huyết Chiến Cuối Cùng
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230117/thefour3-2014-cn-logof-1673949064/da7517da9fd7a670e0e348774d214b81.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/feb6bbfea28da983875792736a40b870708bb90b.png@1200w_630h_1e_1c_1f.webp",🇺🇸| Cuộc Phiêu Lưu Của Nhà Crood
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221206/thecroods-2013-us-logof-tm/cb6ea7ff44be043f6a3e2d512a1a1278.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/23_02_2021/g2qccwzlk9q21b3de1giuascfvs23-02-2021_15g52-41.jpg",🇺🇸| Cuộc Phiêu Lưu Tới Madagascar
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221214/madagascar-2005-us-1671003168/f7657d1ec82b0db4a6ffa2a25a8d316a.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/05/16/theincrediblehulk_2008_us16-05-2022_16g13-45_1920x1080_over.jpg",🇺🇸| Người Khổng Lồ Xanh
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221209/hulk-2003-us-1670574301/d3e9edd1c7ad62625c16b178923bc5f2.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/12/09/cau-chu-ma-ca-rong-fpt-play-1670558044600_Background_1920x1080_over.jpg",🇻🇳| Cậu Chủ Ma Cà Rồng
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221208/cau-chu-ma-ca-rong-2019-vn-logof-1670493933/60550326395de77066f69d2078021176.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media//VOD/Drama/2022/02/TheInstrumentOfMurder_2020_VN/TheInstrumentOfMurder_2020_VN093316_Slider_LandScape_1920x1080_over.jpg",🇻🇳| Trái Tim Quái Vật
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220221/theinstrumentofmurder_2020_vn_1080p_logofptplay/c5087e7cb15b190e1f55e0fcfa28f8f2.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/06/29/6vtioz9p_1920x1080-daokinhhoang.jpg",🇺🇸| Đảo Kinh Hoàng
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/fantasyislandavod_2020_us_1080p_sub_logofptplay/e1cbb2d1a6d812993e26557dbb0d0a63.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media//VOD/Action/2021/12/ThePerfectStorm_2000_US/ThePerfectStorm_2000_US172308_Slider_LandScape_1920x1080_over.jpg",🇺🇸| Cơn Bão Kinh Hoàng
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220104/theperfectstorm_2000_us_1080p_sub_logofptplay/3a7f4883e85eb8587057753f3bf1c31c.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/10/13/2012-nam-dai-hoa-fpt-play-1665635397201_Landscape.jpg",🇺🇸| 2012: Năm Đại Họa
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221014/2012-2009-us-logof/080aaec26e343c0babec5e68be89bed5.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.danet.vn/images//src/930/5f8/f283563a0968f0b7bebbf253caf014dd.jpg",🇺🇸| Thảm Họa Động Đất
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191221/thequake_1080p_logofptplay/4944206c2330c6ba47e9335d68fa1db2.smil/chunklist_b3992000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://ss-images.saostar.vn/2017/06/11/1340089/20170612themummyanhphan01.jpg",🇺🇸| Xác Ướp
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221215/themummy-2017-us-logof-1671104505/4d57b5af9436ff3863d759e97fd2a6c1.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/5/26/photo-1-1527347198627991787344.jpg",🇺🇸| Xác Ướp Ai Cập
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221210/themummy-1999-us-logof/dce74d99ce7f6fad00c0d766d92c3892.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/12/08/xac-uop-ai-cap-fpt-play-1670465288203_Background_1920x1080_over.jpg",🇺🇸| Xác Ướp Trở Lại
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221211/themummyreturns-2001-1670777492/a792c9d701bb02081f0428d728f41743.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media//VOD/Romantic/2022/01/AlmostHuman_2020_CN/AlmostHuman_2020_CN103536_Slider_LandScape_1920x1080_over.jpg",🇨🇳| Vỏ Bọc Người Máy
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220130/almosthuman_2020_cn_1080p_sub_logofptplay/ffe19506f6b4c5bf1f3a29145c74fdd1.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ibb.co/5v3rh22/AAAABU-cri-NVq-Mcjehc-Zcxu-bi-Va-Hv1-3t3-Dl-Lf-Q5-Epy-YSd61-FY6-Au-Vd5-XOmd-KLv-IGA6wys-IIs-KM9vy-PC.jpg",🇺🇸| Người Máy Trỗi Dậy
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221126/exmachina-2014-us-logof/cdbbb3634eaa0f599040063248fe4534.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/05/20/the-deep20-05-2022_09g07-21.jpg?w=282&mode=scale",🇺🇸| Chiến Thắng Biển Sâu 
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190815/deep_filmlm_1080p_logofptplay/c24cb88acb44509e8af09645aadd67f1.smil/chunklist_b3992000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media/OTT/VOD/2022/11/24/lac-ngoai-khong-gian-fpt-play-1669283644035_Title_Header.png",🇺🇸| Lạc Ngoài Không Gian
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221126/zathuraaspaceadventure-2005-us-logof/8fc5e82de50947cc9cd8119f1a42db7b.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images.fptplay.net/media//VOD/Action/2015/06/AKnightsTale_2001_USA/AKnightsTale_2001_US164820_Slider_LandScape_1920x1080_over.jpg",🇺🇸| Huyền Thoại Hiệp Sĩ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211013/aknightstale_2001_us_1080p_sub_logofptplay/4214550f5ab825be0684c65d01459091.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/27/huyen-thoai-robin-hood-fpt-play-1658895278363_Landscape.jpg",🇺🇸| Huyền Thoại Robin Hood
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220805/robinhood_2018_us_1080p_sub_logofptplay/13a610ea2bca99f010f6e1df45d3e053.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/25/thu-cung-tang-hinh-fpt-play-1661411928474_Landscape.jpg",🇺🇸| Thú Cưng Tàng Hình
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220907/abulele-2015-il-1080p-logof-v2-1662544898/ce140d669f54e6a032ad152d252c4eea.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/title_card_dark/2020/12/24/a8rso01w_title-kynguyenelysium-nen-den_815_255.png",🇺🇸| Kỷ Nguyên Elysium
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221008/elysium-2013-us-logof/2bed999116d391d6255515205b6bfcdf.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/hath/032018/10/07/3054_POSTER_THE_LODGERS.jpg",🇺🇸| Luật Quỷ
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200212/the-lodgers-fptplay-1080p-sub-logofptplay/1730e358268adbf1a77709a7af3ad1a0.smil/chunklist_b3992000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ytimg.com/vi/Ko9Ds3jLwwg/maxresdefault.jpg",🇺🇸| Đại Chiến Gã Khổng Lồ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201126/i-kill-giants-fptplay-1080p-sub-logofptplay/c4e34c14d756ff05456fac8b8504a38a.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/29/sieusaosieungo_2018_vn_bghd29-08-2022_08g13-20.jpg",🇻🇳| Siêu Sao Siêu Ngố
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220829/sieusaosieungo_2018_vn_1080p_logof/d2ead569a2b7ca108a926c050ba2d158.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/12/20/p1at4exf_1920x1080-huongga_1267_712.jpg",🇻🇳| Hương Ga
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220913/huongga-2014-vn-logof-v2/3fccdfcd0e595d34fff4e42844798110.smil/chunklist_b4392000.m3u8?CC
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://media.truyenhinhdulich.vn/upload/news/11_11//bom_tan_nguoi_nhen_vu_tru_moi_he_lo_ngay_cong_chieu_phan_2_11483706112019.jpg",🇺🇸| Người Nhện: Vũ Trụ Mới
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220905/spidermanintothespiderverse_2018_us_logof/bda4f12c14112a64d3cfa3a006c4fe70.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_hot_v4/2022/06/13/aa5s2fhb_1920x1080-thanthamdichnhankiet_782_432.jpg",🇨🇳| Thần Thám Địch Nhân Kiệt
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220104/detectionofdirenjie_2020_cn_1080p_sub_logofptplay/ef29cc7a37c3158752bf14c99461d319.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/08/10/h8rq0aoh_1920x1080-dichnhankietrongbientroiday_1267_712.webp",🇨🇳| Địch Nhân Kiệt: Rồng Biển Trỗi Dậy
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220714/youngdetectivedeeriseoftheseadragon-2013-cn-1080p-sub-logofptplay-1657740452/72925a3ea85a15db94bb93beb17873ea.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/17_02_2022/detectivedeesolitaryskieskiller_2020_cn_bghd17-02-2022_08g27-51.jpg",🇨🇳| Địch Nhân Kiệt: Thiên Sát Cô Loan
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/detectivedeesolitaryskieskiller_2020_cn_1080p_sub_logofptplay/ee56996a9c4d3518d9ea1baa1a972aab.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/26/om0st71f_1920x1080-luanhoido_296_168.webp",🇨🇳| Địch Nhân Kiệt: Bức Tranh Luân Hồi
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220114/thestoryofrenjiedisrebirthpicture_2018_cn_logofptplay/ab2251da43135aa66ef26ffc6a069ef0.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/10/dich-nhan-kiet-thong-thien-de-quoc-fpt-play-1660103622670_Landscape.jpg",🇨🇳| Địch Nhân Kiệt: Thông Thiên Đế Quốc
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220822/detectivedeemysteryofthephantomflame_2013_cn_1080p_sub/ff982777c735c7e343a921f1edfab43a.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2020/12/26/rhybdun0_1920x1080dacvuaoden_1920_1080.jpg",🇺🇸| Đặc Vụ Áo Đen
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210930/meninblack_1997_us_1080p_sub_logofptplay/6a8d130894ea80ba8ea30c86f25597d5.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/26/d55rh87q_1920x1080dacvuaoden2.jpg",🇺🇸| Đặc Vụ Áo Đen 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack2_2002_us_1080p_sub_logofptplay/14093f9a81beb65dabb0f1b0b8958c12.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2020/12/26/5mekcoti_1920x1080dacvuaoden3_1267_712.webp",🇺🇸| Đặc Vụ Áo Đen 3
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack3_2012_us_1080p_sub_logofptplay/22aa7ff123928ae96b5a2cca5a5daeed.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/24/trang-roi-fpt-play-1661329901909_Landscape.jpg",🇺🇸| Trăng Rơi
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220824/moonfall_trailer/9b76cf040dbd0c0c1c7aef9c9be8cb2e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ibb.co/MG7fgJM/Golden-Compass.jpg",🇺🇸| Chiếc La Bàn Vàng
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211118/thegoldencompass_2007_us_1080p_sub_logofptplay/0a582e242d0f3a667e3eb5a7d3658c45.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/04/15/09/71f29614/71f29614-0cf0-4b48-8a46-8c15802efe23_640_360.jpg",🇺🇸| Con Trai Của Thần Orisis
+http://vod-zlr2.tv360.vn/video1/2021/04/15/09/d545c265/d545c265-8aec-4c00-aa6b-7aa58a781ab1_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/07/09/afc4f454/afc4f454-56ee-41ec-8c66-0eb0e4b9c5be_640_360.jpg",🇺🇸| Các Vị Thần Ai Cập
+http://vod-zlr2.tv360.vn/video1/2022/07/07/09/7a2230e7/7a2230e7-4d42-4925-b9a9-55de3bf2b52c_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2020/12/25/4ft9jtph_1920x1080-thapnguyetvithanh_1920_1080.jpg",🇨🇳| Thập Nguyệt Vi Thành
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220309/bodyguardsandassassins_2009_hk_1080p_sub_logofptplay_v2/110b1b791f93e4234487a5f0d38467f8.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/18/thai-cuc-quyen-anh-hung-ba-dao-fpt-play-1658138732617_Landscape.jpg",🇨🇳| Thái Cực Quyền: Anh Hùng Bá Đạo
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220726/taichihero-2012-cn-1080p-sub-logofptplay-v2/e8e2e8806b45e613f4930411c3d5175a.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ibb.co/SxTnKMZ/index.jpg",🇺🇸| Thám Tử Nhí
+http://vod-zlr2.tv360.vn/video1/2019/01/29/14/33198a0b/33198a0b-c762-496f-86f5-fd76b46bdec2_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/06/09/e95c4c49/e95c4c49-af37-4011-91b6-6f41bc7a56fb_640_360.jpg",🇺🇸| Điệp Viên Nhí 4: Kẻ Cắp Thời Gian
+http://vod-zlr2.tv360.vn/video1/2022/07/06/09/cd074f50/cd074f50-77d9-4e28-b73a-5ce4343dcb26_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/06/15/15/c6352cd7/c6352cd7-e10d-4f02-85d1-f9d1a8ea4dfa_640_360.png",🇨🇳| Tử Chiến Đài
+http://vod-zlr2.tv360.vn/video1/2021/06/15/15/f48bd8c4/f48bd8c4-e3e4-4104-ad26-a15a7605e460_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/15/09/7df8ca90/7df8ca90-c431-4556-8dd8-e8a3282c479b_640_360.jpg",🇺🇸| Bộ Ba Vệ Sĩ
+http://vod-zlr2.tv360.vn/video1/2022/06/15/09/964fb5a7/964fb5a7-52c3-4ed1-84e9-463f428cd95f_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/09/k83ha4g7_1920x1080-hoabi2.jpg",🇨🇳| Họa Bì 2: Thuật Hồi Sinh
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220705/paintedskin2theresurrection_2012_cn_1080p_sub_logofptplay/4d9c33d8af2dd61b0b6839aac7ef17bd.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/12/17/kip91wk9_1920x1080-tombraider.jpg",🇺🇸| Tomb Raider: Huyền Thoại Bắt Đầu
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220718/tombraider-2018-us-1080p-sub-logofptplay/eb3077927887fc2c04a4c73ed0b630dc.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/29/14/cf66f37d/cf66f37d-9146-4490-b1f1-8d7e0848e5aa_640_360.jpg",🇺🇸| Nữ Sát Thủ Báo Thù
+http://vod-zlr2.tv360.vn/video1/2022/06/29/14/ab87e418/ab87e418-85de-4f7f-8a80-a5d06fd286d9_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/01/14/cfb63a86/cfb63a86-bbe6-4781-968b-41cb9956608c_640_360.jpg",🇺🇸| Nữ Sinh Bắt Ma
+http://vod-zlr2.tv360.vn/video1/2022/07/01/14/7d4e66fd/7d4e66fd-235b-43e3-85e4-7c0328ace6c3_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/25/thu-cung-tang-hinh-fpt-play-1661411928474_Landscape.jpg",🇺🇸| Thú Cưng Tàng Hình
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220907/abulele-2015-il-1080p-logof-v2-1662544898/ce140d669f54e6a032ad152d252c4eea.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/title_card_dark/2020/12/24/a8rso01w_title-kynguyenelysium-nen-den_815_255.png",🇺🇸| Kỷ Nguyên Elysium
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20221008/elysium-2013-us-logof/2bed999116d391d6255515205b6bfcdf.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://thegioidienanh.vn/stores/news_dataimages/hath/032018/10/07/3054_POSTER_THE_LODGERS.jpg",🇺🇸| Luật Quỷ
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200212/the-lodgers-fptplay-1080p-sub-logofptplay/1730e358268adbf1a77709a7af3ad1a0.smil/chunklist_b3992000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ytimg.com/vi/Ko9Ds3jLwwg/maxresdefault.jpg",🇺🇸| Đại Chiến Gã Khổng Lồ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201126/i-kill-giants-fptplay-1080p-sub-logofptplay/c4e34c14d756ff05456fac8b8504a38a.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/29/sieusaosieungo_2018_vn_bghd29-08-2022_08g13-20.jpg",🇻🇳| Siêu Sao Siêu Ngố
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220829/sieusaosieungo_2018_vn_1080p_logof/d2ead569a2b7ca108a926c050ba2d158.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/12/20/p1at4exf_1920x1080-huongga_1267_712.jpg",🇻🇳| Hương Ga
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220913/huongga-2014-vn-logof-v2/3fccdfcd0e595d34fff4e42844798110.smil/chunklist_b4392000.m3u8?CC
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://media.truyenhinhdulich.vn/upload/news/11_11//bom_tan_nguoi_nhen_vu_tru_moi_he_lo_ngay_cong_chieu_phan_2_11483706112019.jpg",🇺🇸| Người Nhện: Vũ Trụ Mới
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220905/spidermanintothespiderverse_2018_us_logof/bda4f12c14112a64d3cfa3a006c4fe70.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_hot_v4/2022/06/13/aa5s2fhb_1920x1080-thanthamdichnhankiet_782_432.jpg",🇨🇳| Thần Thám Địch Nhân Kiệt
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220104/detectionofdirenjie_2020_cn_1080p_sub_logofptplay/ef29cc7a37c3158752bf14c99461d319.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/08/10/h8rq0aoh_1920x1080-dichnhankietrongbientroiday_1267_712.webp",🇨🇳| Địch Nhân Kiệt: Rồng Biển Trỗi Dậy
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220714/youngdetectivedeeriseoftheseadragon-2013-cn-1080p-sub-logofptplay-1657740452/72925a3ea85a15db94bb93beb17873ea.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/17_02_2022/detectivedeesolitaryskieskiller_2020_cn_bghd17-02-2022_08g27-51.jpg",🇨🇳| Địch Nhân Kiệt: Thiên Sát Cô Loan
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220216/detectivedeesolitaryskieskiller_2020_cn_1080p_sub_logofptplay/ee56996a9c4d3518d9ea1baa1a972aab.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/26/om0st71f_1920x1080-luanhoido_296_168.webp",🇨🇳| Địch Nhân Kiệt: Bức Tranh Luân Hồi
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220114/thestoryofrenjiedisrebirthpicture_2018_cn_logofptplay/ab2251da43135aa66ef26ffc6a069ef0.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/10/dich-nhan-kiet-thong-thien-de-quoc-fpt-play-1660103622670_Landscape.jpg",🇨🇳| Địch Nhân Kiệt: Thông Thiên Đế Quốc
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220822/detectivedeemysteryofthephantomflame_2013_cn_1080p_sub/ff982777c735c7e343a921f1edfab43a.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2020/12/26/rhybdun0_1920x1080dacvuaoden_1920_1080.jpg",🇺🇸| Đặc Vụ Áo Đen
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210930/meninblack_1997_us_1080p_sub_logofptplay/6a8d130894ea80ba8ea30c86f25597d5.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/26/d55rh87q_1920x1080dacvuaoden2.jpg",🇺🇸| Đặc Vụ Áo Đen 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack2_2002_us_1080p_sub_logofptplay/14093f9a81beb65dabb0f1b0b8958c12.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2020/12/26/5mekcoti_1920x1080dacvuaoden3_1267_712.webp",🇺🇸| Đặc Vụ Áo Đen 3
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/meninblack3_2012_us_1080p_sub_logofptplay/22aa7ff123928ae96b5a2cca5a5daeed.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/08/24/trang-roi-fpt-play-1661329901909_Landscape.jpg",🇺🇸| Trăng Rơi
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220824/moonfall_trailer/9b76cf040dbd0c0c1c7aef9c9be8cb2e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ibb.co/MG7fgJM/Golden-Compass.jpg",🇺🇸| Chiếc La Bàn Vàng
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211118/thegoldencompass_2007_us_1080p_sub_logofptplay/0a582e242d0f3a667e3eb5a7d3658c45.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/04/15/09/71f29614/71f29614-0cf0-4b48-8a46-8c15802efe23_640_360.jpg",🇺🇸| Con Trai Của Thần Orisis
+http://vod-zlr2.tv360.vn/video1/2021/04/15/09/d545c265/d545c265-8aec-4c00-aa6b-7aa58a781ab1_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/07/09/afc4f454/afc4f454-56ee-41ec-8c66-0eb0e4b9c5be_640_360.jpg",🇺🇸| Các Vị Thần Ai Cập
+http://vod-zlr2.tv360.vn/video1/2022/07/07/09/7a2230e7/7a2230e7-4d42-4925-b9a9-55de3bf2b52c_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2020/12/25/4ft9jtph_1920x1080-thapnguyetvithanh_1920_1080.jpg",🇨🇳| Thập Nguyệt Vi Thành
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220309/bodyguardsandassassins_2009_hk_1080p_sub_logofptplay_v2/110b1b791f93e4234487a5f0d38467f8.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/07/18/thai-cuc-quyen-anh-hung-ba-dao-fpt-play-1658138732617_Landscape.jpg",🇨🇳| Thái Cực Quyền: Anh Hùng Bá Đạo
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220726/taichihero-2012-cn-1080p-sub-logofptplay-v2/e8e2e8806b45e613f4930411c3d5175a.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ibb.co/SxTnKMZ/index.jpg",🇺🇸| Thám Tử Nhí
+http://vod-zlr2.tv360.vn/video1/2019/01/29/14/33198a0b/33198a0b-c762-496f-86f5-fd76b46bdec2_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/06/09/e95c4c49/e95c4c49-af37-4011-91b6-6f41bc7a56fb_640_360.jpg",🇺🇸| Điệp Viên Nhí 4: Kẻ Cắp Thời Gian
+http://vod-zlr2.tv360.vn/video1/2022/07/06/09/cd074f50/cd074f50-77d9-4e28-b73a-5ce4343dcb26_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/06/15/15/c6352cd7/c6352cd7-e10d-4f02-85d1-f9d1a8ea4dfa_640_360.png",🇨🇳| Tử Chiến Đài
+http://vod-zlr2.tv360.vn/video1/2021/06/15/15/f48bd8c4/f48bd8c4-e3e4-4104-ad26-a15a7605e460_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/15/09/7df8ca90/7df8ca90-c431-4556-8dd8-e8a3282c479b_640_360.jpg",🇺🇸| Bộ Ba Vệ Sĩ
+http://vod-zlr2.tv360.vn/video1/2022/06/15/09/964fb5a7/964fb5a7-52c3-4ed1-84e9-463f428cd95f_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/09/k83ha4g7_1920x1080-hoabi2.jpg",🇨🇳| Họa Bì 2: Thuật Hồi Sinh
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220705/paintedskin2theresurrection_2012_cn_1080p_sub_logofptplay/4d9c33d8af2dd61b0b6839aac7ef17bd.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/12/17/kip91wk9_1920x1080-tombraider.jpg",🇺🇸| Tomb Raider: Huyền Thoại Bắt Đầu
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220718/tombraider-2018-us-1080p-sub-logofptplay/eb3077927887fc2c04a4c73ed0b630dc.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/29/14/cf66f37d/cf66f37d-9146-4490-b1f1-8d7e0848e5aa_640_360.jpg",🇺🇸| Nữ Sát Thủ Báo Thù
+http://vod-zlr2.tv360.vn/video1/2022/06/29/14/ab87e418/ab87e418-85de-4f7f-8a80-a5d06fd286d9_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/01/14/cfb63a86/cfb63a86-bbe6-4781-968b-41cb9956608c_640_360.jpg",🇺🇸| Nữ Sinh Bắt Ma
+http://vod-zlr2.tv360.vn/video1/2022/07/01/14/7d4e66fd/7d4e66fd-235b-43e3-85e4-7c0328ace6c3_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/28_02_2022/johnwick_bghd28-02-2022_07g30-27.jpg",🇺🇸| Sát Thủ John Wick
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick_2014_us_1080p_sub_logofptplay/cbeb166d248cc24fea9165b202c15e3e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/c2b1a247/c2b1a247-f57b-4976-bd4c-b735894b409c_640_360.jpg",🇺🇸| Thợ Săn Phù Thủy
+http://vod-zlr2.tv360.vn/video1/2022/01/14/16/f63f5726/f63f5726-e23e-4945-8fca-5cefa5850e1c_5_.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/e58ed210/e58ed210-4fc3-4bee-ab98-6ae011fb401e_640_360.jpg",🇺🇸| Chiến Binh Cổ Đại
+http://vod-zlr2.tv360.vn/video1/2022/01/14/16/1652e23e/1652e23e-6d46-4cbd-9120-2e55aefce52f_5_.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/28_10_2021/vm8mhrjk5nq562uq0kbuzi0yohr28-10-2021_03g35-02.jpg",🇺🇸| Siêu Thú Cuồng Nộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211028/rampage_2018_us_1080p_sub_logofptplay/afc806c826bf921035a824f855d34351.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/14_12_2017/untitled-114-12-2017_17g00-20.jpg",🇺🇸| Quái Vật Khổng Lồ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20171216/americanbigfoot-logo/ba0f5eef2e0baa673986b46f7d33a02e.smil/chunklist_b1998000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/367eedeb3843371c95e75a7092ae66c3d75a6f3de6e8e6bb599dd16e049418c1._UY500_UX667_RI_V_TTW_.jpg",🇰🇷| Kiếm Ký
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201117/memories-of-the-sword-fptplay-1080p-logofptplay/d751d0555630f64140ca142a8919b160.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://cdn-img-v2.webbnc.net/uploadv2/web/60/6033/video/2017/11/13/05/51/1510595137_tai-xuong.jpg",🇨🇳| Hỏa Thiêu Vân
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220506/forafewbullets_2016_cn_1080p_sub_logofptplay/a491b3284e46ba633e7e5948e6ec7f1f.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/03/10/06ae3008/06ae3008-12cc-45c6-9fab-96cec2fd64e5_640_360.png",🇺🇸| Cá Mập Sát Thủ
+http://vod-zlr2.tv360.vn/video1/2022/03/03/10/ce124d26/ce124d26-5d37-4cb2-b0d2-35bf9df46c97_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/05/13/319146a5/319146a5-d321-4b64-aa1c-ae5dd81f0246_640_360.jpg",🇺🇸| Cá Mập Núi Tuyết
+http://vod-zlr2.tv360.vn/video1/2022/04/05/13/d0720b92/d0720b92-0628-432e-b5e9-3c4d60e83269_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/01/28/23/182ade30/182ade30-56c7-48a6-8630-4a92e3a67250_640_360.jpg",🇨🇳| Dạ Quỷ
+http://vod-zlr2.tv360.vn/video1/2020/01/28/23/79e599fe/79e599fe-02ef-43aa-bb51-fe61d3cfcc23_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ed48fa084739cfd073e83f59c5361cc8aa6fd4a1075a835d98feae0ab8092718._SX1080_.jpg",🇨🇳| Đại Đường Huyền Trang
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220504/xuanzang_2016_cn_1080p_sub_logofptplay/be4ab2a697eb0a2f59903d661cd96379.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/9g7rjfwcku6dbkftx49yalbeoav02-10-2021_01g43-27.jpg",🇺🇸| Vùng Đất Quỷ Dữ 5: Báo Thù
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210929/residentevilretribution_2012_de_1080p_sub_logofptplay/0643548bedd2f417d1f7a9502d7ff27e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/eh6hhxouye1jfzmg4285hq7s0ra02-10-2021_01g39-50.jpg",🇺🇸| Vùng Đất Quỷ Dữ 4: Kiếp Sau
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210929/residentevilafterlife_2010_de_1080p_sub_logofptplay/edbbbba75ac7f773ca9b03514b6f3832.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/hdqr7t9vupz648zaszefnrwleow02-10-2021_01g35-01.jpg",🇺🇸| Vùng Đất Quỷ Dữ 3: Tuyệt Diệt
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/residentevilextinction_2007_de_1080p_sub_logofptplay/9206adca5ef70b87c9693a8067b8afa5.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/4itbvaes4vmrincbeatgbu241rh27-09-2021_04g19-11.jpg",🇺🇸| Vùng Đất Quỷ Dữ 2: Khải Huyền
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/residentevil_2002_de_1080p_sub_logofptplay/e405732fc7e5116fe10896063dd74b84.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/4ni6xbdqv4xpr9irt94bxh8pccw27-09-2021_02g55-31.jpg",🇺🇸| Vùng Đất Quỷ Dữ 1
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/residentevil_2002_de_1080p_sub_logofptplay/e405732fc7e5116fe10896063dd74b84.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/07/23/14/2f6ae0d5/2f6ae0d5-e525-4c04-b0ce-0878b587c2c4_640_360.jpg",🇺🇸| Quái Vật Nguyên Sinh
+http://vod-zlr2.tv360.vn/video1/2020/07/23/14/c45d2c6f/c45d2c6f-7453-47c8-b1fc-a82df2dfad03_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/05/19/13/d02cafbb/d02cafbb-eda7-4ca5-a393-46fe9f2c5c49_640_360.jpg",🇺🇸| Mặc Cả Với Quỷ
+http://vod-zlr2.tv360.vn/video1/2021/05/19/13/f51ae473/f51ae473-c914-46fc-a480-87e34a8eb735_4_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/e58ed210/e58ed210-4fc3-4bee-ab98-6ae011fb401e_640_360.jpg",🇺🇸| Chiến Binh Cổ Đại
+http://vod-zlr2.tv360.vn/video1/2022/01/14/16/1652e23e/1652e23e-6d46-4cbd-9120-2e55aefce52f_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ytimg.com/vi/jG6WV-jjG04/maxresdefault.jpg",🇺🇸| Mật Mã Cướp Biển: Cuộc Phiêu Lưu Của Mickey Matson
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220502/piratescodetheadventuresofmickeymatson_2014_us_1080p_sub_logofptplay/3e3692480a695084d91a1eadd5861fd9.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/28_02_2022/johnwick_bghd28-02-2022_07g30-27.jpg",🇺🇸| Sát Thủ John Wick
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/johnwick_2014_us_1080p_sub_logofptplay/cbeb166d248cc24fea9165b202c15e3e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/c2b1a247/c2b1a247-f57b-4976-bd4c-b735894b409c_640_360.jpg",🇺🇸| Thợ Săn Phù Thủy
+http://vod-zlr2.tv360.vn/video1/2022/01/14/16/f63f5726/f63f5726-e23e-4945-8fca-5cefa5850e1c_5_.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/e58ed210/e58ed210-4fc3-4bee-ab98-6ae011fb401e_640_360.jpg",🇺🇸| Chiến Binh Cổ Đại
+http://vod-zlr2.tv360.vn/video1/2022/01/14/16/1652e23e/1652e23e-6d46-4cbd-9120-2e55aefce52f_5_.m3u8
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/28_10_2021/vm8mhrjk5nq562uq0kbuzi0yohr28-10-2021_03g35-02.jpg",🇺🇸| Siêu Thú Cuồng Nộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211028/rampage_2018_us_1080p_sub_logofptplay/afc806c826bf921035a824f855d34351.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/14_12_2017/untitled-114-12-2017_17g00-20.jpg",🇺🇸| Quái Vật Khổng Lồ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20171216/americanbigfoot-logo/ba0f5eef2e0baa673986b46f7d33a02e.smil/chunklist_b1998000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/367eedeb3843371c95e75a7092ae66c3d75a6f3de6e8e6bb599dd16e049418c1._UY500_UX667_RI_V_TTW_.jpg",🇰🇷| Kiếm Ký
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201117/memories-of-the-sword-fptplay-1080p-logofptplay/d751d0555630f64140ca142a8919b160.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://cdn-img-v2.webbnc.net/uploadv2/web/60/6033/video/2017/11/13/05/51/1510595137_tai-xuong.jpg",🇨🇳| Hỏa Thiêu Vân
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220506/forafewbullets_2016_cn_1080p_sub_logofptplay/a491b3284e46ba633e7e5948e6ec7f1f.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/03/10/06ae3008/06ae3008-12cc-45c6-9fab-96cec2fd64e5_640_360.png",🇺🇸| Cá Mập Sát Thủ
+http://vod-zlr2.tv360.vn/video1/2022/03/03/10/ce124d26/ce124d26-5d37-4cb2-b0d2-35bf9df46c97_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/05/13/319146a5/319146a5-d321-4b64-aa1c-ae5dd81f0246_640_360.jpg",🇺🇸| Cá Mập Núi Tuyết
+http://vod-zlr2.tv360.vn/video1/2022/04/05/13/d0720b92/d0720b92-0628-432e-b5e9-3c4d60e83269_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/01/28/23/182ade30/182ade30-56c7-48a6-8630-4a92e3a67250_640_360.jpg",🇨🇳| Dạ Quỷ
+http://vod-zlr2.tv360.vn/video1/2020/01/28/23/79e599fe/79e599fe-02ef-43aa-bb51-fe61d3cfcc23_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/ed48fa084739cfd073e83f59c5361cc8aa6fd4a1075a835d98feae0ab8092718._SX1080_.jpg",🇨🇳| Đại Đường Huyền Trang
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220504/xuanzang_2016_cn_1080p_sub_logofptplay/be4ab2a697eb0a2f59903d661cd96379.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/9g7rjfwcku6dbkftx49yalbeoav02-10-2021_01g43-27.jpg",🇺🇸| Vùng Đất Quỷ Dữ 5: Báo Thù
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210929/residentevilretribution_2012_de_1080p_sub_logofptplay/0643548bedd2f417d1f7a9502d7ff27e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/eh6hhxouye1jfzmg4285hq7s0ra02-10-2021_01g39-50.jpg",🇺🇸| Vùng Đất Quỷ Dữ 4: Kiếp Sau
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210929/residentevilafterlife_2010_de_1080p_sub_logofptplay/edbbbba75ac7f773ca9b03514b6f3832.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/hdqr7t9vupz648zaszefnrwleow02-10-2021_01g35-01.jpg",🇺🇸| Vùng Đất Quỷ Dữ 3: Tuyệt Diệt
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/residentevilextinction_2007_de_1080p_sub_logofptplay/9206adca5ef70b87c9693a8067b8afa5.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/4itbvaes4vmrincbeatgbu241rh27-09-2021_04g19-11.jpg",🇺🇸| Vùng Đất Quỷ Dữ 2: Khải Huyền
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/residentevil_2002_de_1080p_sub_logofptplay/e405732fc7e5116fe10896063dd74b84.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/4ni6xbdqv4xpr9irt94bxh8pccw27-09-2021_02g55-31.jpg",🇺🇸| Vùng Đất Quỷ Dữ 1
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/residentevil_2002_de_1080p_sub_logofptplay/e405732fc7e5116fe10896063dd74b84.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/07/23/14/2f6ae0d5/2f6ae0d5-e525-4c04-b0ce-0878b587c2c4_640_360.jpg",🇺🇸| Quái Vật Nguyên Sinh
+http://vod-zlr2.tv360.vn/video1/2020/07/23/14/c45d2c6f/c45d2c6f-7453-47c8-b1fc-a82df2dfad03_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/05/19/13/d02cafbb/d02cafbb-eda7-4ca5-a393-46fe9f2c5c49_640_360.jpg",🇺🇸| Mặc Cả Với Quỷ
+http://vod-zlr2.tv360.vn/video1/2021/05/19/13/f51ae473/f51ae473-c914-46fc-a480-87e34a8eb735_4_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/14/16/e58ed210/e58ed210-4fc3-4bee-ab98-6ae011fb401e_640_360.jpg",🇺🇸| Chiến Binh Cổ Đại
+http://vod-zlr2.tv360.vn/video1/2022/01/14/16/1652e23e/1652e23e-6d46-4cbd-9120-2e55aefce52f_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://i.ytimg.com/vi/jG6WV-jjG04/maxresdefault.jpg",🇺🇸| Mật Mã Cướp Biển: Cuộc Phiêu Lưu Của Mickey Matson
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220502/piratescodetheadventuresofmickeymatson_2014_us_1080p_sub_logofptplay/3e3692480a695084d91a1eadd5861fd9.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/18_03_2022/nerve_bghd18-03-2022_17g33-53.jpg",🇺🇸| Trò Chơi Đoạt Mạng
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220319/nerve_2016_us_1080p_sub_logofptplay/a2c4c096adb61a735ef1986208867152.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/26_10_2021/nszivhkmmtr0df0l60nfkk6mxla26-10-2021_03g02-41.jpg",🇺🇸| Ma Trận 3: Cuộc Cách Mạng
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211025/thematrixrevolutions_2003_us_1080p_sub_logofptplay/ecc64275036217932d5ad363ae71ed54.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/25_10_2021/sdxcd4nt3er4qocw1god0rabqtq25-10-2021_01g58-11.jpg",🇺🇸| Ma Trận 2: Tái Lập
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211024/thematrixreloaded_2003_us_1080p_sub_logofptplay/16f4ac7989333ae61a132caea7b2e4a5.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/25/17/cb69884d/cb69884d-e848-4074-b884-4468daf2cb2f_640_360.jpg",🇺🇸| Hành Trình Đến Thung Lũng Cấm
+http://vod-zlr2.tv360.vn/video1/2022/04/25/17/427e4213/427e4213-687d-4c42-bf1e-d67328f85d71_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/04/26/11/63286c6f/63286c6f-9f4d-47f1-a06e-ca210c13d556_640_360.jpg",🇺🇸| Triệt Hạ
+http://vod-zlr2.tv360.vn/video1/2021/04/26/11/4722453f/4722453f-6e7b-416c-9b5b-16ec3bc76c7e_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://phim.hotakky.com/media/userfiles/_thumbs/600x315/center/images/04-2015/signalmovie.jpg",🇯🇵| Tín Hiệu
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220419/signalthemovie_2021_jp_1080p_sub_logofptplay/e57f55402a84343ec71d11cd9eb0cf41.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://vofoimgcdn.com/screenshots/59072-haiste-min.jpg",🇦🇷| Vụ Trộm Thế Kỷ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220426/theheistofthecentury_2020_ar_1080p_sub_logofptplay/7f00befb9396da22b5f926156f39799e.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/14/14/d0992c77/d0992c77-fab2-41c7-a3a7-c3602a8e178b_640_360.png",🇺🇸| Cuộc Phiêu Lưu Thứ 5 Của Sinbad
+http://vod-zlr2.tv360.vn/video1/2022/04/14/14/82773df8/82773df8-87ed-440d-a520-e44ca073cb8f_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/05/13/f7c18e5b/f7c18e5b-528d-4cec-a3c5-9638132e4792_640_360.png",🇺🇸| Những Con Rồng Ở Camelot
+http://vod-zlr2.tv360.vn/video1/2022/04/05/13/15fb2e1e/15fb2e1e-85e2-4d2d-9214-c8a31bf889fd_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/l2bahg1h3ejrxiizv8v2umkuqpf27-09-2021_02g36-57.jpg",🇺🇸| Kẻ Hủy Diệt 4: Cứu Rỗi
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/terminatorsalvation_2009_us_1080p_sub_logofptplay/53208681a777e3da35f6d5bc7ec6c5ac.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/27_09_2021/vovkswgfyv9goprnfuawj6qyrtl27-09-2021_02g26-30.jpg",🇺🇸| Kẻ Hủy Diệt 3: Người Máy Nổi Loạn
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210927/terminator3riseofthemachines_2003_us_1080p_sub_logofptplay/4754a7d545ae312f52d91cb244f992a7.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/02_10_2021/fn4n6uoycb6uh89nbnpou2w80rv02-10-2021_01g54-12.jpg",🇺🇸| Người Nhện: Trở Về Nhà
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210929/spidermanhomecoming_2017_us_1080p_sub_logofptplay/f2ad2ff83b0e3b137eba4c74da20611b.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/25_09_2021/ng6ssb3jhbcpktwbpdsrwuyk8cq25-09-2021_06g30-00.jpg",🇺🇸| Người Nhện: Xa Nhà
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210921/spidermanfarfromhomeavod_2019_us_1080p_sub_logofptplay/70aefde5ebfe427c4deb0a31e1c4107a.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/18_03_2022/mechanic2resurrection_bghd18-03-2022_16g41-21.jpg",🇺🇸| Sát Thủ Thợ Máy 2: Ngày Tái Xuất
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220319/mechanicresurrection_2016_us_1080p_sub_logofptplay_v2/bf902bcf699b049bf9334b8289e4d74b.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/01/05/7qg7vym0_3_horizontal-thumbnail1a7c25c9db81ccb72c004dc8c50a0c58_1267_712.webp",🇺🇸| Sát Thủ Thợ Máy 1
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220228/themechanic_2011_us_1080p_sub_logofptplay/c929bdb7bbb15755d78c4d5fd2cdf67b.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/20_06_2020/the-hunger-games-5ea08da80fe8520-06-2020_05g28-32.jpg",🇺🇸| Đấu Trường Sinh Tử
+https://vod06-cdn.fptplay.net/encoded/20200624/the_hunger_games_1080p_sub_logofptplay_v2/1080p/index.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://ghienreview.com/wp-content/uploads/2020/12/Ghien-review-Alone-2020-Ke-rinh-moi-01-1024x576.jpg",🇺🇸| Kẻ Rình Mồi
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220421/alone_2020_us_1080p_sub_logofptplay/fe6166595a209d74f88fd35d60b02441.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2020/12/26/nyo2rmmc_1920x1080-nhungthienthancuacharlie2_1267_712.webp",🇺🇸| Những Thiên Thần Của Charlie 2
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/charliesangelsfullthrottle_2003_us_1080p_sub_logofptplay/5544f60f41281b0e1ec53b5af89ae66f.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2020/12/26/ndex5ga2_1920x1080-nhungthienthancuacharlie.jpg",🇺🇸| Những Thiên Thần Của Charlie 1
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210928/charliesangels_2000_us_1080p_sub_logofptplay/c9f11cd8cf42c46b414a49e435ad64e0.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2019/11/01/14/607ac06b/607ac06b-7e45-4a8a-9ef5-0dcaed53ec82_640_360.jpg",🇺🇸| Ma Tốc Độ 2: Linh Hồn Báo Thù
+http://vod-zlr2.tv360.vn/video1/2019/11/01/14/295fa317/295fa317-30ca-4917-bf14-5fb6bcb6b52d_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/09_10_2021/ghost-rider-5229257f4ea8a09-10-2021_19g56-52.jpg",🇺🇸| Ma Tốc Độ 1
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211009/ghostrider_2007_us_1080p_sub_logofptplay/069fb2e24cccf5b9cb01ada7e5803500.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/24_09_2021/vuukzlgacrho2ar8scl9htv3yd24-09-2021_16g19-01.jpg",🇺🇸| Venom
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210920/venom_2018_us_1080p_sub_logofptplay_v2/ccda2cdaf6f73d7c5ca11e4bb7507928.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/05/13/af6ec651/af6ec651-3bcd-4927-aaad-b0cb0cabe49a_640_360.jpg",🇺🇸| Bão Thời Gian
+http://vod-zlr2.tv360.vn/video1/2022/04/05/13/1bc686f3/1bc686f3-d532-4273-8500-6ec0628a319b_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/18/16/bea49735/bea49735-8abe-4ff0-9fc8-b6d946ac62d4_640_360.jpg",🇺🇸| Dịch Chuyển Định Mệnh
+http://vod-zlr2.tv360.vn/video1/2021/11/18/16/d57b37b0/d57b37b0-62f5-46e2-9b94-fdb48289cf15_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/07/17/69e3409a/69e3409a-df29-452f-85dd-f4c965e1ea35_640_360.jpg",🇨🇳| Phong Vân Phá
+http://vod-zlr2.tv360.vn/video1/2022/04/07/17/54fa24a2/54fa24a2-1ef1-4a0a-8dc9-0e612abbbf4d_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/09/16/15/9eac8b8d/9eac8b8d-9c08-4ed9-afe8-0b07f4bb4d37_640_360.jpg",🇨🇳| Âm Mưu Hoàng Tộc
+http://vod-zlr2.tv360.vn/video1/2020/09/16/15/64a6ae99/64a6ae99-2457-4db1-86a3-0b29290e404b_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://gamek.mediacdn.vn/2018/8/30/summer-of-84-movie-trailer-1535603699174135331783.jpg",🇺🇸| Mùa Hè Kinh Hoàng Năm 84
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220414/summerof84_2018_ca_1080p_sub_logofptplay/39b738bd8719d4e43a9893894ee13b7c.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://www.gocdienanh.com/wp-content/uploads/2019/10/review-phim-hung-than-dai-duong-5.jpg",🇺🇸| Hung Thần Đại Dương: Thảm Sát
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220303/47metersdownuncaged_2019_us_1080p_sub_logofptplay/7ae06fb2988226b98e75a16d0393ffd8.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/30_03_2022/drive_2011_us_bghd30-03-2022_16g17-11.jpg",🇺🇸| Tay Lái Siêu Hạng
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220331/drive_2011_us_1080p_sub_logofptplay/c4b3b6db2f5bf3a6c68b13ac2ee1536d.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/31_03_2022/triple9_bghd31-03-2022_17g28-11.jpg",🇺🇸| Phi Vụ 999
+https://vod04-cdn.fptplay.net/ovod/_definst/smil:mp4/encoded/20220401/triple9_2016_us_1080p_sub_logofptplay/f1f53b68b63cd04e9235df344f1bc43c.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/06/17/5689501f/5689501f-ee9d-42cf-acc8-067b791637b8_640_360.jpg",🇨🇳| Thợ Săn Quái Vật
+http://vod-zlr2.tv360.vn/video1/2022/01/06/17/a54d0d6a/a54d0d6a-2f3b-44d8-b8b9-92cd58b6b3ba_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/19/09/2a14c02e/2a14c02e-927c-473f-ad08-198443b7ed03_640_360.png",🇨🇳| Vũ Khí Khêu Gợi
+http://vod-zlr2.tv360.vn/video1/2021/07/19/09/18c3927c/18c3927c-44bc-4d70-94ab-2dcceef6a858_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/14_04_2022/aprilsnow_2005_kr_bghd14-04-2022_17g06-13.jpg",🇰🇷| Tuyết Tháng Tư
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220412/aprilsnow_2005_kr_1080p_sub_logofptplay/e09d0fa33016b2855b758436bb003cdf.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/01_04_2022/beastsclawingatstraws_2020_kr_bghd01-04-2022_17g13-37.jpg",🇰🇷| Chó Săn Tiền
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220403/beastsclawingatstraws_2020_kr_1080p_sub_logofptplay/98d3f272b1429d484e53f7cd2486b111.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/26_03_2020/untitled-126-03-2020_13g40-02.jpg",🇨🇳| Dấu Chân Băng Thần
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200326/dau-chan-bang-than-logo/0456192a0d6e47301c6b849b5ac48630.smil/chunklist_b3992000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/08_04_2022/handrolledcigarette_2020_hk_bghd08-04-2022_17g12-03.jpg",🇨🇳| Thuốc Lá Cuộn Tay
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220412/handrolledcigarette_2020_hk_1080p_sub_logofptplay/05b20ec2e8c23e083e4424bf306153e4.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/06/17/f1695b9e/f1695b9e-403d-4037-b54f-0a9f13e38c28_640_360.jpg",🇨🇳| Cô Nàng Nguy Hiểm
+http://vod-zlr2.tv360.vn/video1/2022/01/06/17/73a3aab2/73a3aab2-ab97-493c-81cf-dc10742ab226_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/03/10/2364dde9/2364dde9-7fed-4393-ad7f-4c0445bc1e40_640_360.png",🇨🇳| Sát Thủ Hotgirl
+http://vod-zlr2.tv360.vn/video1/2021/09/03/10/492bb579/492bb579-93e9-4b08-a914-19ab04228510_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/06_03_2022/alongwiththegodsthetwoworldsavod_2017_kr_bghd06-03-2022_02g29-14.jpg",🇰🇷| Thử Thách Thần Chết: Giữa Hai Thế Giới
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220304/alongwiththegodsthetwoworldsavod_2017_kr_1080p_sub_logofptplay/d358b2910aa6678e0815f2d266c4732b.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://vtv1.mediacdn.vn/zoom/550_339/2014/untitled-1409892212665.png",🇰🇷| Đại Thủy Chiến
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220409/theadmiralroaringcurrents_2014_kr_1080p_sub_logofptplay/0506f65ca34600baa8b504b6685d6732.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://tv.hoangbin.com/wp-content/uploads/2019/01/cuoc-chien-luan-hoi.jpg",🇺🇸| Cuộc Chiến Luân Hồi
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211105/edgeoftomorrow_2014_us_1080p_sub_logofptplay/0dcfee904b4e454f7b5b7c7e1e41e4a2.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/04/15/10/030bc18d/030bc18d-0292-4cdd-b62b-f6a72c902b80_640_360.jpg",🇺🇸| Sóng Tử Thần
+http://vod-zlr2.tv360.vn/video1/2021/04/15/10/e35fe9a7/e35fe9a7-e7ec-4513-bfb1-ef3fba6c5b73_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/01/17/ab195271/ab195271-d715-4e45-9cd0-59ef55cd0c5d_640_360.png",🇺🇸| Vùng Đất Quỷ
+http://vod-zlr2.tv360.vn/video1/2022/04/01/17/1235db2f/1235db2f-c6df-4a61-9493-7c9a2d07a1ee_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/08_04_2022/homesweethome_2021_cn_bghd08-04-2022_17g08-39.jpg",🇨🇳| Vị Khách Bí Ẩn
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220410/homesweethome_2021_cn_logofptplay/ccb3453eeebc81bcc999f0a323f0b191.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/01/19/13/43ffcd88/43ffcd88-4922-4e3d-9e4b-0631ac50d088_640_360.jpg",🇨🇳| Thế Giới Song Song
+http://vod-zlr2.tv360.vn/video1/2022/01/19/13/4f409cd0/4f409cd0-4ef9-47a9-8435-dd4e6a61070b_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020/09/16/17/c4803fea/c4803fea-a8d3-4409-885a-ed26f5f76fd3_640_360.jpg",🇨🇳| Điệp Vụ Tuyệt Mật
+http://vod-zlr2.tv360.vn/video1/2020/09/16/17/f551916d/f551916d-5b57-4b2b-bbd9-9feef0a29a0a_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/03/10/193d7006/193d7006-b383-4d01-8f0b-42da82794670_640_360.png",🇺🇸| Đại Chiến Cá Mập Và Người Máy
+http://vod-zlr2.tv360.vn/video1/2022/03/03/10/6a9ba34f/6a9ba34f-c82a-42c7-9ec1-e983accee378_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/18_03_2022/londonhasfallen_bghd18-03-2022_05g27-04.jpg",🇺🇸| Luân Đôn Thất Thủ
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220317/londonhasfallen_2016_us_1080p_sub_logofptplay/494ad37274b5c59a0a5ef96ca936f9ff.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2022/03/15/o5mjuu9i_1920x1080-nhatrangthatthu_1267_712.webp",🇺🇸| Nhà Trắng Thất Thủ
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220329/olympushasfallen_2013_us_1080p_sub_logofptplay/9bd7dad417f6861bf1fe340de8adddd5.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2020/12/28/ccbpai1a_1920x1080giaicuunhatrang_1267_712.webp",🇺🇸| Giải Cứu Nhà Trắng
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/whitehousedown_2013_us_1080p_sub_logofptplay/635f7603da46cf32318f06c8501c8774.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/01/17/c58c749a/c58c749a-3612-4a7b-9928-fc5be15b8568_640_360.png",🇺🇸| Hiệp Sĩ Của Người Chết
+http://vod-zlr2.tv360.vn/video1/2022/04/01/17/af8a0948/af8a0948-4685-46c0-a2ee-3185a4371352_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/29_03_2022/spiralfromthebookofsaw_bghd29-03-2022_17g31-04.jpg",🇺🇸| Lưỡi Cưa 9
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220329/spiralfromthebookofsaw_2021_us_1080p_sub_logofptplay/acfed18e3b625011e9fbed8668f18912.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/03/10/42e599af/42e599af-5cb3-47af-8bb0-9a465748b8bc_640_360.png",🇯🇵| Siêu Đạo Chích: Lupin the 3rd
+http://vod-zlr2.tv360.vn/video1/2022/03/03/10/7d38343f/7d38343f-71b6-478b-9a22-9621f1b876c8_5_.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg",🇰🇷| Ẩn Thân
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191202/secretly_greatly_fptplay_1080p_logofptplay/082e3d560ec2f3f0013938a4fd705314.smil/chunklist_b3992000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/26_03_2022/skype_picture_2022_03_25t19_42_01_866z26-03-2022_02g42-49.jpeg",🇺🇸| Ranh Giới
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220323/sicario_2015_us_1080p_sub_logofptplay/2fd2235df84d450ccffa68f217c64ef2.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/04_04_2022/powerranger_bghd04-04-2022_17g19-06.jpg",🇺🇸| Năm Anh Em Siêu Nhân
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220405/powerrangers_2017_us_1080p_sub_logofptplay/976e7e9b7ae04542f47c48be88fa49da.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/05_04_2022/untoldscandal_2003_kr_bghd05-04-2022_17g24-59.jpg",🇰🇷| Nỗi Ô Nhục Họ Cho
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220406/untoldscandal_2003_kr_1080p_sub_logofptplay/f65bb5cf54626bf3ad2bdf46d9ea3d30.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/01_04_2022/200poundsbeauty_2006_kr_bghd01-04-2022_17g12-54.jpg",🇰🇷| Sắc Đẹp Ngàn Cân
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220403/200poundsbeauty_2006_kr_1080p_sub_logofptplay/2f01b17c0bfd4d6ad15a82d283c465f2.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/03_02_2022/almosthuman_2020_cn_bghd03-02-2022_21g52-54.jpg",🇨🇳| Vỏ Bọc Người Máy
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220130/almosthuman_2020_cn_1080p_sub_logofptplay/ffe19506f6b4c5bf1f3a29145c74fdd1.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://static.fptplay.net/static/img/share/video/14_02_2021/q2idb9ahlbvnp1ltrrumhtrqlt14-02-2021_15g34-31.jpg",🇺🇸| Vũ Điệu Thần Tiên
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210211/ballerina_1080p_2016_france_tm_logofptplay/ee7953a20dc0a520b340dc57812250a0.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 group-title="PHIM LẺ" tvg-logo="https://www1.showbizchaua.com/wp-content/uploads/2018/01/TMM-BANNER.jpg",🇺🇸| Ác Quỷ Lúc Nửa Đêm
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220401/themidnightman_2016_ca_1080p_sub_logofptplay/bee18ecfccfa2c32ca2b11ccda851be3.smil/chunklist_b4628000.m3u8?cc
+
+-------------------------------
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.studyphim.vn/system/movies/3552/thumbnails/medium/thumbnail.jpg" group-title="PHIM LẺ" , Nữ Vệ Sĩ - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/close_ftpplay_4k_1080p_sub_logofptplay_v5/8f8551439c6ee64b2db3dc8da3becaec.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/02_12_2020/371c3956220a4e1594a8d9b9f211d92302-12-2020_15g36-41.jpeg" group-title="PHIM LẺ" , Vụ Án Bí Ẩn - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201126/howling_fptplay_1080p_sub_logofptplay/297de7e12e788e978a1342aeb1773e83.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://ss-images.saostar.vn/2018/10/30/3959991/untitled-1-1.png" group-title="PHIM LẺ" , Thảm Họa Động Đất - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191221/thequake_1080p_logofptplay/4944206c2330c6ba47e9335d68fa1db2.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vnn-imgs-f.vgcloud.vn/2018/04/17/10/nhan-qua-doc-tu-dan-sieu-thu-cuong-no-1.jpg" group-title="PHIM LẺ" , Siêu Thú Cuồng Nộ - Phim Lẻ
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211028/rampage_2018_us_1080p_sub_logofptplay/afc806c826bf921035a824f855d34351.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/MHqbqk_dP9o/maxresdefault.jpg" group-title="PHIM LẺ" , Ma Tốc Độ - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20211009/ghostrider_2007_us_1080p_sub_logofptplay/069fb2e24cccf5b9cb01ada7e5803500.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/01/05/kt66j6dp_3_horizontal-thumbnail8c1352c8b038b664a9eedc8fdc51d9c1.jpg" group-title="PHIM LẺ" , Điệp Viên Báo Thù - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200629/atomic_blondle_1080p_sub_logofptplay_v6_sub/9074e19102312698be3a601ef324be97.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/hinh-3-1535293451766931592433.jpg" group-title="PHIM LẺ" , Kỷ Nguyên Tàn Bạo - Phim Lẻ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200115/kundo-age-of-the-rampant-1080p-sub-logofptplay/4c9f51081bfeede1f5213e8f9d0e5e09.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.thuvienphim.net/wp-content/uploads/2021/10/1547999436-1024x576.jpg" group-title="PHIM LẺ" , Hàng Xóm Ẩn Thân - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210731/the_good_neighbor_2016_usa_1080p_logofptplay_tm/c1e73de1737097f186dce271fabf064c.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/02_08_2021/1200x675-102-08-2021_01g35-13.jpg" group-title="PHIM LẺ" , Căn Phòng Tử Thần - Phim Lẻ
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210926/escaperoomavod_2019_us_1080p_sub_logofptplay_v2/31dc0bd771b2fc054f8fc459cd0d1dc1.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/13_02_2020/untitled-113-02-2020_22g12-31.jpg" group-title="PHIM LẺ" , Chiến Binh Bình Minh - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200213/warriors-of-the-dawn-fptplay-1080p-sub-logofptplay/7f463772a6c17794586c78c8356ac68d.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anh.24h.com.vn/upload/4-2016/images/2016-10-11/1476147918-147611874095650-1.jpg" group-title="PHIM LẺ" , Điệp Vụ Tam Giác Vàng - Operation Mekong - Phim Lẻ
+https://vod05-cdn.fptplay.net/encoded/20200619/operation-mekong-1080p-sub-logofptplay-v3/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cung-thu-sieu-pham-ctsp375703.jpg" group-title="PHIM LẺ" , Cung Thủ Siêu Phàm  - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201126/war-of-the-arrows-fptplay-1080p-sub-logofptplay/3c000f4dcd8271fc65be57184feffe33.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/02/09/47hrm7aw_1920x1080bikichtrieudai_1920_1080.jpg" group-title="PHIM LẺ" , Bi Kịch Triều Đại - Phim Lẻ
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201118/the_throne_fptplay_1080p_sub_logofptplay/cbc9dd145f18089eb9032b63a061e6c3.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g39-17.jpg" group-title="PHIM LẺ" , Cuồng Nộ Bá Vương - Phim Lẻ
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200414/the_fatal_encounter_fptplay_rerender_1080p_sub_logofptplay/823b56157061e809259b34af21f1086d.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ibb.co/8m63vdv/a.jpg" group-title="PHIM LẺ" , Vua Bạch Phiến - Phim Lẻ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210723/the_drug_king_2018_korea_1080p_sub_sub_v2/7cd6a18b7599385d38b7e2837698a6c6_1080p.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210723/the_drug_king_2018_korea_1080p_tm_v2/d87030311fa4846098c61a913e3b56e2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.tuoitre.vn/tto/i/s626/2016/08/12/train-to-busan-6-1471017852.jpg" group-title="PHIM LẺ" , Chuyến Tàu Sinh Tử - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200504/train_to_busan_1080p_sub_logofptplay_v3/198cfd3cfabbca658a0818142450476e.smil/chunklist_b3992000.m3u8 
+http://s3-hcm-r1.longvan.net/phimle/chuyentausinhtutm.mp4
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/yVucSRLLeIM/maxresdefault.jpg"    group-title="PHIM LẺ"  , Bán Đảo Sinh Tử - PHIM LẺ    
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210623/train_to_busan_2_2020_korea_1080_sub/eb8797c6ff08713056f6788356dd0350.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1NTZlODU3YTBlNDhhN2U0ZmI2ZDYzOThkMGNmYThlIiwgInZpZGVvX2lkIjogIjYwZDZhZmY4MjA4OWJkMjJmYjVmNGNmZCIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk4NjY5MjIsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_07_2018/untitled-119-07-2018_15g46-47.jpg" group-title="PHIM LẺ"   , Ký Ức Kẻ Sát Nhân - Phim Lẻ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/memoir-of-murderer-1080p-sub-logofptplay/57c57f220b5df0dbb42e4f9d362ace96-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg" group-title="PHIM LẺ"   ,Tội Ác Ghê Tởm - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200914/i-saw-the-devil-2010-korea-sub-sub/b8df664240da80fb2f83002fa4f0a41b-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg" group-title="PHIM LẺ"   ,Trùm, Cớm và Ác Quỷ - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/the_gangster_the_cop_the_devil_1080p_sub_logofptplay/25331b09a80bcf6c32ce785154064e32_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg" group-title="PHIM LẺ"   ,Kẻ Đi Săn - Phim Lẻ
+https://vod07-cdn.fptplay.net/encoded/20200813/the-chaser-2008-korea-1080p-sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/b60c7rjz_1920x1080-cunconsieuquay.jpg" group-title="PHIM LẺ"   ,Cún Con Siêu Quậy 2 - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191129/hearty_paws_2_fptplay_1080p_logofptplay/4432096cd5af2a3cb803432dc274d3e2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://toiyeumobile.com/wp-content/uploads/2012/05/Windstruck3.jpg" group-title="PHIM LẺ"   ,Ngọn Gió Yêu Thương - Phim Lẻ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20170109/903a2336f3f8e78c8e436dbd1b40918c-720p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/-ZnlHS1On_8/maxresdefault.jpg" group-title="PHIM LẺ"   ,Hoa Cúc Dại - Phim Lẻ
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20180405/daisy-2006-korea/455293b4ab91cf620aa5d78c18c00546.smil/chunklist_b2992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/28_04_2016/cspcsaszu0528-04-2016_14g08-38.jpg" group-title="PHIM LẺ"   ,Sứ Mệnh Truy Sát - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200913/assassination-2015-korea-tm-v2/84f5fc3df0fc916b4dad8a9210612ec2-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/static/the-thieves-poster_banner_landscape_21x9_2048x878_3x.jpg" group-title="PHIM LẺ"   ,Đội Quân Siêu Trộm - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191202/the_thieves_fptplay_1080p_logofptplay/6805ab9e422d4bab8fd492b173433c93_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tudtt987212m1.jpg" group-title="PHIM LẺ"    ,Ứng Dụng Tử Thần - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/08/31/23/62a80013/62a80013-71f1-4edb-81b1-0d01eca31371_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://blogtuoitre.vn/wp-content/uploads/2020/09/co-gai-nam-ay-chung-ta-cung-theo-duoi.jpg" group-title="PHIM LẺ"   ,Cô Gái Năm Ấy Chúng Ta Cùng Theo Đuổi - Phim Lẻ
+https://vod05-cdn.fptplay.net/encoded/20200905/you_are_the_apple_of_my_eye_2011_china_sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.pinimg.com/originals/0e/11/f1/0e11f11683f9c85a95320f2a03268bc1.jpg" group-title="PHIM LẺ"   ,Tài Xế Taxi - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200116/taxi_driver_1080p_sub_logofptplay/b96c009f9316422c65303e06f6c94abb.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/eNG1R-x3uEY/maxresdefault.jpg" group-title="PHIM LẺ"   ,3 Chàng Ngốc - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201109/3idiots_2009_india_pd_v2/deb94013bcf0f0570ce1d291527ef7cb_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2021/2/9/-1612861687785990603196.jpg" group-title="PHIM LẺ"   ,Trò Chơi Sinh Tử - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210915/battleroyale_2000_japan_sub_v2/d261f7451f0b60293d514f900a82903f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/15_03_2017/o6x1qkouhbpvjajxdvhlnkndzsj15-03-2017_12g06-04.jpg" group-title="PHIM LẺ"   ,Ngày Khó Khăn - Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200614/a_hard_day_1080p_tm_2014_korea_logofptplay/488c552981e369e97f4954982746172b.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://2.bp.blogspot.com/-c1c92FaWxwU/VbBWIY4a2RI/AAAAAAAABM8/bOGYN2Q7M5Q/s1600/Athena.jpg" group-title="PHIM LẺ"   ,Athena: Nữ Thần Chiến Tranh - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191203/athena_vi_1080p_sub_logofptplay/626e136c522cabbe6dda7d1eb74a3ffb_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg" group-title="PHIM LẺ"   ,Ẩn Thân - Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200413/secretly_greatly_fptplay_1080p_sub_logofptplay/5e495f83bc6ee50988e38a438e413c0e.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/21_11_2019/201807191056251730_t21-11-2019_05g46-35.jpg" group-title="PHIM LẺ"   ,Bạn Ma Phiền Toái - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191120/the_soul_mate_1080p_logofptplay/df66379980f8c5ba1c81e3f5457659d9.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://cdn-2.tstatic.net/sultra/foto/bank/images/film-korea-hit-and-run-squad.jpg" group-title="PHIM LẺ"   ,Biệt Đội Hit & Run - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/hit_and_run_squad_2019_korea_1080p_sub/5a7ff0b555923e2feff4326995171f7a.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/zoom/480_300/150157425591193600/2020/4/6/800x500-1-1586171317013355997755-0-0-500-800-crop-1586171325365794783897.png" group-title="PHIM LẺ"   ,Thợ Săn Tiền Thưởng - Phim Lẻ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210214/bounty-hunters-1080p-2016-korea-tm-v2/05bbb12160f74bb152d330ee3311bb54-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/frdbggv2_1920x1080cobeak.jpg" group-title="PHIM LẺ"   ,Cô Baek - Phim Lẻ  
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/miss_baek_2018_korea_logofptplay_tm/76d40b845fc624c83ddf25551e14267a.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/10_09_2020/the-witch-banner10-09-2020_12g05-12.jpg" group-title="PHIM LẺ"   ,Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion - Phim Lẻ  
+https://vod02-cdn.fptplay.net/encoded/20200910/the_witch_part_1_the_subversion_2018_korea_sub_v3/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/1hoabi-15352543573631587444741.png" group-title="PHIM LẺ"   ,Họa Bì - Painted Skin 2008 - Phim Lẻ  
+https://vod05-cdn.fptplay.net/encoded/20200524/paintedskin_2008_chi_mul/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://vcdn1-giaitri.vnecdn.net/2012/03/05/tao_hinh-1345817360.jpg?w=480&h=0&q=100&dpr=1&fit=crop&s=-XK0G6L2nLcmFPibyxLZHg" group-title="PHIM LẺ"   ,Họa Bì 2 - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200726/psiitr2012dub/e84fbe510506ecb86c0e6edfc6b575ee.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/2019/7/9/57355fa7b6fd4bbe96c7d21ba83a3c70-1562649233245510831468.jpeg" group-title="PHIM LẺ"   ,Hoa Mộc Lan - Phim Lẻ  
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://hdvietsub.net/wp-content/uploads/2017/04/bg_01_lrs63116-744x419.jpg" group-title="PHIM LẺ"   ,Đường Hầm - Phim Lẻ  
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/tunnel_fptplay_rerender_1080p_sub_logofptplay/f1bba0f9553b464277ff0a748bb5cc54.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/72995397_110657550355331_354254919823261696_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=m1-4D73iYAAAX83BnAY&_nc_ht=scontent.fdad2-1.fna&oh=4d003b0aba6183f19c722bde8c0f0416&oe=61549D8C" group-title="PHIM LẺ"   ,Băng Trộm Siêu Đẳng - Phim Lẻ 
+ https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwOTg5MzQ5ZWI1NGViZjZiOGVkODcwMTE5OWIwMzU5IiwgInZpZGVvX2lkIjogIjVkZTZiNmQ2MjA4OWJkMDI0N2NlZDZkZCIsICJzZXJ2ZXJfdGltZSI6IDE2MjgzMjY3MjAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-23/1434416605-kihd1419328659-gangnam-blue-1.jpg" group-title="PHIM LẺ"   ,Bụi Đời Gangnam - Phim Lẻ  
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/41e759c60bb8f417d91962230f797c3c.smil/chunklist_b2992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.mnewsvn.com/uploads/20/5c11ddecef60e.jpg" group-title="PHIM LẺ"   ,Găng Tơ Tái Xuất - Unstoppable Angry Bull 2018 - Phim Lẻ  
+https://vod04-cdn.fptplay.net/encoded/20200905/unstoppable_2018_1080p_korea_sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://anh.eva.vn/upload/4-2016/images/2016-12-01/1480588118-ava-songhye-kyo-thangnam.jpg" group-title="PHIM LẺ"   ,Những Tháng Năm Rực Rỡ - Phim Lẻ  
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200314/my_brilliant_life_fptplay_1080p_sub_logofptplay/124ad881347366836cf655191da10f62.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://animeanime.jp/imgs/p/F0wY7sTvXbM-zUyY3Ct0qjajM6ytrq_oqaqr/99209.jpg" group-title="PHIM LẺ"   ,Cuốn Sổ Tử Thần: Cái Tên Cuối Cùng - Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210523/death_note_2_the_last_name_2006_japan_sub/14f093983a90ecd61e0271991ec2a3d2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/09/u661neb7_1920x1080camdotoiloi.jpg" group-title="PHIM LẺ"   ,Cám Dỗ Tội Lỗi - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200406/a_man_and_a_woman_fptplay_1080p_sub_logofptplay/2cb194201fa2a57b617fe55d69139342_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/01/05/zd6k3dwp_truy-lung-sieu-trom_horizontal-thumbnail-png_1267_712.jpg" group-title="PHIM LẺ"   ,Truy Lùng Siêu Trộm - Phim Lẻ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201120/cold_eyes_fptplay_1080p_logofptplay_v2/730fb468eaef9d44686990811f98e9a8_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/ovAVBX52Dho/maxresdefault.jpg" group-title="PHIM LẺ"   ,Trò Chơi Sinh Tồn - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210914/as_the_gods_will_2014_japan_1080p_sub/b069fcbd90f71e4cf8b4632d31b8df81.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/Tf2ngAeaTE8WbxC3BOZDHqEPMPxY3lFBiF9LA5AQMHpc-tHGhcwYhY6V--AWGyCpe0UqDTotoAEFr1v7RY64cWnfvTZ1cXHxldBbKU28ryUSoa0lmuFiVDNnk6682TP0gFOQCNKWgnIqiyQC-wgZ8dWxi-u9" group-title="PHIM LẺ"   ,Một Thời Học Sinh - Phim Lẻ
+https://vod05-cdn.fptplay.net/encoded/20200518/onceuponatimeinhighschool_2004_kor_multi/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/02/09/5e4mcpav_1920x1080ongbangangto_1267_712.jpg" group-title="PHIM LẺ"   ,Ông Bạn Găng Tơ - Phim Lẻ  
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200301/man_of_men_1080p_sub_logofptplay_v2/908d112b2215f981fed29e0316a41416_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxD62VrrweqPV6tPNYxoSiUJSCFV3W8jZAA&usqp=CAU" group-title="PHIM LẺ"   ,Truy Đuổi - Phim Lẻ  
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191209/montage_vi_1080p_sub_logofptplay_v2/e05e07cf638a7dbfb6e41dc77ce965f7_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.dreamers.id/img_artikel/44lee-jong-suk-vip-movie.jpg" group-title="PHIM LẺ"   ,Theo Dấu Sát Nhân - Phim Lẻ  
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201004/vip_2017_korea_sub_logofptplay/8c85790517e7f16a33ba2d9a1f10f230.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2021_02_13/vuong_bao_cuong4.jpg" group-title="PHIM LẺ"   ,Thám Tử Phố Tàu - Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160117/b36c3a4846a24fcc246a3e22c86cf30a.smil/chunklist_b1998000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://afamilycdn.com/thumb_w/600/150157425591193600/2021/2/13/thamtu4-1613208019019892095482-42-0-388-660-crop-1613208364169920836889.jpg" group-title="PHIM LẺ"   ,Thám Tử Phố Tàu 2 - Phim Lẻ
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210203/detective-chinatown-2-2018-china-tm/03a82ef013d3b92bc10bcbb74ebe167a.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh6.googleusercontent.com/LvrafZ96_KrF1NnDR4uLP4TtrFQrB7kFXRZinlGOnJQrwWX4TFNm976aGXF2_JCjw5M" group-title="PHIM LẺ"   ,Thám Tử Phố Tàu 3 - Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210519/detective_chinatown_3_2021_sub_v5_sub/8e845eb0d74e2cfac69c75f93fbb9838_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tham-tu-k-bi-mat-goa-phu-stkbmgp702957-2019120924.jpg" group-title="PHIM LẺ"   ,Thám Tử K: Bí Mật Hoa Ô Đầu - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201126/detective-k-secret-of-virtuous-widow-fptplay-1080p-sub-logofptplay/6aacaea92ad6acb2e7a3594c7ecb3eea-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImI4MDJiYjMxYzg0OWFjOGJhYWM0MWY4YTMyYmRlN2MwIiwgInZpZGVvX2lkIjogIjVmYzg5YzI5MjA4OWJkMGI5NjdiMjhlMyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA4MTc0NjUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://2.bp.blogspot.com/-CHVGwoUz7_Q/WsHzuM_2LSI/AAAAAAAE734/SSCJDQ4DRjcNT-Zj2xiYyGl5U7mE765wACHMYCw/s0/XemPhimOn_gallery_tham-tu-k-bi-mat-goa-phu-0.jpg" group-title="PHIM LẺ"   ,Thám Tử K: Ma Cà Rồng Báo Thù - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200618/detective_k_secret_of_the_living_dead_1080p_sub_logofptplay_v3/7ff832496f2755a6d194ed0053751cb3_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIyYzkwNWNjOWI3MTFmNDQ0ZGNiMDY0Mzk0NWM0NTY1IiwgInZpZGVvX2lkIjogIjVlMjQxYzk5MjA4OWJkMDU0OTA2NjI5NCIsICJzZXJ2ZXJfdGltZSI6IDE2MzAxMTk4NDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/19_11_2020/untitled-119-11-2020_07g14-08.jpg" group-title="PHIM LẺ"   ,Tuổi Trẻ Sục Sôi - Phim Lẻ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/hot_young_blood_fptplay_1080p_logofptplay_v2/98ae308c5a14cbe9d0abffd250d854ca_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://aumyhay.files.wordpress.com/2019/02/phim_phia_sau_tam_guong.jpg?w=1100&h=619" group-title="PHIM LẺ"   ,Phía Sau Tấm Gương- Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210828/look_away_2018_usa_1080p_logofptplay_tm/5edd470cf16e474018db6b757e015663_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjA5NzQzY2YyNDZkMzVkNWVlNGM1ZTNkNzVhOTZiMzNlIiwgInZpZGVvX2lkIjogIjYxMmU1NDg3MjA4OWJkMDBhM2I1N2JmMSIsICJzZXJ2ZXJfdGltZSI6IDE2MzA0MjcyNDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/a658d23016fb87f4536849e04851921d/thumb/phim-thay-oi-em-yeu-anh-tung-mv-giong-em-gai-mua-banner-thumb43.jpg" group-title="PHIM LẺ"   ,Thầy Ơi… Em Yêu Anh - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200212/sensei_fptplay_4k_1080p_sub_logofptplay/6e652b40df1f46a68b1829b24643254e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/TGRUeKg.jpg" group-title="PHIM LẺ"   ,Dạ Quỷ - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191006/rampant_2018_korea_pd_1080p/02a04b8acf9805b901f1ed6e328dd9ab_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg" group-title="PHIM LẺ"   ,Sát Thủ Văn Phòng - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_fptplay_1080p_logofptplay/89e2f8cbec8f370972d30ec946748a69_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/10/25/bg01jkt35500-15404821307571432905898.jpg" group-title="PHIM LẺ"   ,Hóa Ra Anh Vẫn Ở Đây - Phim Lẻ  
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201102/nevergone_2016_china_v3/5bb271549df8335ace2ed22b61fc120c.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1N2U0NDJkYjcyYzc5YjI4NzgzN2M4YmUyYmQ2NWFjIiwgInZpZGVvX2lkIjogIjU3YjJkMDgxMTdkYzEzMDJkNDRkYWE1ZiIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk5NjkxMjcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/DnSVf_aQNd8/maxresdefault.jpg" group-title="PHIM LẺ"   ,Chuyện Kinh Dị Lúc Nửa Đêm - Phim Lẻ  
+http://vod-zlr2.tv360.vn/video1/2020/01/08/12/bbeae1e3/bbeae1e3-2818-4d32-9b51-605e9339d6ba_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/cqreI_UAT28/maxresdefault.jpg" group-title="PHIM LẺ" , Chốt Chặn Cuối Cùng - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/04/01/13/83253eff/83253eff-1413-42ba-a3cf-641130b5aaf0_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2017/1-1503293393738.png" group-title="PHIM LẺ" , Vệ Sĩ Sát Thủ  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/01/28/22/30ef57b3/30ef57b3-b441-46cc-915b-122802f837ae_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/KFt07DTboEI/maxresdefault.jpg" group-title="PHIM LẺ" , Sát Thủ Thợ Máy - Phim Lẻ
+http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/21/46023956/46023956-166a-4589-8b65-640685ae014f_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/VKCnqKh02PU/maxresdefault.jpg" group-title="PHIM LẺ" , Sát Thủ Thợ Máy: Sự Tái Xuất  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/08/04/14/3535c0fe/3535c0fe-133e-4f88-bab8-6e45caa40e4a_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://www.thinkingfaith.org/sites/default/files/field/image/The%20Bank%20Job.jpg" group-title="PHIM LẺ" , Vụ Cướp Thế Kỷ  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2019/11/01/18/cdf8e6a0/cdf8e6a0-b3d4-491a-abf7-4b045be32a23_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/1cu2uhof_1920x1080-taytromchuyennghiep.jpg" group-title="PHIM LẺ" , Tay Trộm Chuyên Nghiệp  - Phim Lẻ
+http://vod-zlr2.tv360.vn/s2-video3/2019/11/01/19/2a4831da/2a4831da-ecdf-4765-97e4-88e3719f7a74_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://static.ybox.vn/2019/2/4/1551343032451-cold-pursuit-co-phai-cu-da-cuoi-cung-o-tuoi-66-cua-ngoi-sao-taken-liam-neeson.jpg" group-title="PHIM LẺ" , Báo Thù  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/01/28/22/b036857d/b036857d-a9ef-4fcf-9202-656d74cd5533_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/l8DAs9rVIWc/mqdefault.jpg" group-title="PHIM LẺ" , Diệp Vấn 3 - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/09/15/00/4ed31685/4ed31685-1bff-4c6f-af16-3d8f006982e3_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/7Cc2wp17soM/maxresdefault.jpg" group-title="PHIM LẺ" , Biệt Kích Ngầm - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/03/30/17/c2a0f579/c2a0f579-fe92-4f25-b6e3-b3c4090d82ad_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khenphim.com/wp-content/uploads/2018/07/Siberia-4.jpg" group-title="PHIM LẺ" , Cuộc Chiến Kim Cương Xanh - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/04/15/09/18c0fcef/18c0fcef-99de-47ae-a022-847195612bf6_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://koicine.com/wp-content/uploads/2021/03/District-9-1-1024x650.jpg" group-title="PHIM LẺ" , Khu Vực 9 - Phim Lẻ
+http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/22/fa6cf16d/fa6cf16d-317b-4612-9a23-b3231586a425_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/20_12_2019/y9ajn7yynm6atmmuau3xyaiiup320-12-2019_05g24-40.jpg" group-title="PHIM LẺ" , Điều Kỳ Diệu Trong Phòng Giam Số 7 - Phim Lẻ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191209/miracle_in_cell_no_7_1080p_sub_logofptplay/130a0b1ca63957caa4d97c41d161d883_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/2017/photo1513041713940-1513041713941.jpg" group-title="PHIM LẺ" , Vòng Xoáy Lừa Đảo - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/02/14/18/e2f847ee/e2f847ee-88f9-4724-8f7e-2292adb783bb_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/02/09/16xy0i4m_1920x1080nguctu_1920_1080.jpg" group-title="PHIM LẺ" , Ngục Tù - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/02/19/12/e6b8ad5e/e6b8ad5e-8a07-417c-b66b-48c2605daefd_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://khophimhan.com/wp-content/uploads/2020/01/7-phim-dien-anh-han-xong-dat-thang-1-2020-di-xem-thoi.jpg" group-title="PHIM LẺ" ,Người Kế Tiếp - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/01/26/22/1886106b/1886106b-a815-4a1f-af94-cb23c76cb73d_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/52dn-wClkz0/maxresdefault.jpg" group-title="PHIM LẺ" ,Kim Ji-Young, Sinh Năm 1982  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/01/26/22/ea063439/ea063439-7df0-472e-a955-4abf48f074e0_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/0S1UxBMqa_g/maxresdefault.jpg" group-title="PHIM LẺ" ,Mal·Mo·E: Nhiệm Vụ Bí Mật  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/01/26/22/6a5ae5a3/6a5ae5a3-2145-4d00-8d06-5f6701644b7e_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/08/18/164614f3/164614f3-d24a-42cd-9c17-c65a16e0a47d_640_360.jpg" group-title="PHIM LẺ" , Ký Ức Diva  - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2020/12/08/18/4293e36a/4293e36a-91c4-4227-a22c-234e3f712b6e_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/MOXzpj8yZFk/maxresdefault.jpg" group-title="PHIM LẺ" , Giám Sát - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/01/28/15/ef17ecb8/ef17ecb8-6560-4b8a-b4ea-707160a5caa8_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.xemgi.us/image/upload/voice-of-silence-banner.jpg" group-title="PHIM LẺ" , Thanh Âm Của Thinh Lặng - Phim Lẻ
+http://vod-zlr2.tv360.vn/video1/2021/01/27/14/c823742f/c823742f-025b-4ba6-8009-2cdd311a3d5c_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://genk.mediacdn.vn/2019/2/16/anh-1-1550312457529197023733.jpg" group-title="PHIM LẺ" ,  Thử Thách Thần Chết - Phim Lẻ 
+http://vod-zlr2.tv360.vn/video1/2018/08/14/17/32627743/32627743-41f9-43c2-95c2-15f5c10f8a33_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/01/22/a340nej4_1920x1080ngayemdepnhat02_1920_1080.jpg" group-title="PHIM LẺ" , Ngày Em Đẹp Nhất - Phim Lẻ 
+http://vod-zlr2.tv360.vn/video1/2021/07/27/22/b382a171/b382a171-9045-4103-885c-899bd2ca3e2b_5_.m3u8
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg" group-title="PHIM LẺ"   ,Báo Thù - Phim Lẻ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210311/oldboy_2003_korea_tm/b65543efcb6afcdc3977d05b4ac8e24e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg" group-title="PHIM LẺ"   ,Công Tố Viên Hung Bạo - Phim Lẻ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191128/a_violent_prosecutor_fptplay_1080p_logofptplay/5504a21c41ce77478d8308592b16791c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg" group-title="PHIM LẺ"   ,Người Vô Danh Tính - Phim Lẻ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg" group-title="PHIM LẺ"   ,Cờ Thái Cực Giương Cao - Phim Lẻ
+https://vod06-cdn.fptplay.net/encoded/20200711/taegukgihwinalrimyeo_2004_korea_v2_sub/1080p/index.m3u8
+
+--------------------------
+
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/-z8YSPu7nag/maxresdefault.jpg" group-title="PHIM HOẠT HÌNH" , Sói 100% 
+http://vod-zlr2.tv360.vn/video1/2020/10/12/17/00838f3c/00838f3c-20ef-46e9-9a50-b116092cd231_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2021/09/20/wikskacg_1920x1080-ngaicaotuyetvoi_1267_712.jpg" group-title="PHIM HOẠT HÌNH" , Ngài Cáo Tuyệt Vời 
+http://vod-zlr2.tv360.vn/video1/2021/09/15/08/b0e38088/b0e38088-597d-4d25-87e6-66ecf618c652_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/13/0he7tgif_1920x1080-doraemondoibanthan.jpg" group-title="PHIM HOẠT HÌNH" , Đô Rê Mon: Đôi Bạn Thân  
+http://vod-zlr2.tv360.vn/video1/2020/09/23/10/d4f76633/d4f76633-8be2-4146-b3f3-8ecf8e07d76b_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/sieu-chien-giap-phan-doan-1-cuoc-gap-go-dinh-menh-scgpd1cggdm725465.jpg" group-title="PHIM HOẠT HÌNH" , Siêu Chiến Giáp (Phân Đoạn 1): Cuộc Gặp Gỡ Định Mệnh 
+http://vod-zlr2.tv360.vn/video1/2018/10/19/18/6be99a07/6be99a07-4e11-4d06-9496-21620b66d05b_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/hoDH9SWLQBM/maxresdefault.jpg" group-title="PHIM HOẠT HÌNH" , Sam Sam: Anh Hùng Nhí Tập Sự 
+http://vod-zlr2.tv360.vn/video1/2021/04/15/10/092a5a23/092a5a23-df4c-46db-a199-c67212bc36e9_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/Brik1iqmJIQ/maxresdefault.jpg" group-title="PHIM HOẠT HÌNH" , Hoàng Tử Hào Hoa 
+http://vod-zlr2.tv360.vn/video1/2018/10/12/18/5d337b1b/5d337b1b-b666-4574-b482-3ce5373039d1_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://newsmd1fr.keeng.net/tiin/archive/images/2017/08/19/152612_bo-to-la-chan-to-phim-hoat-hinh-dang-chu-y-sau-car-3.jpg" group-title="PHIM HOẠT HÌNH" , Bố Tớ Là Chân To 
+http://vod-zlr2.tv360.vn/video1/2018/08/22/00/357b6fa1/357b6fa1-2cc7-4e86-85ff-07e582c45154_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/11/o4e03798_1920x1080-chantophieuluuky.jpg" group-title="PHIM HOẠT HÌNH" , Gia Đình Chân To Phiêu Lưu Ký 
+http://vod-zlr2.tv360.vn/video1/2021/04/22/15/781cc4f8/781cc4f8-612d-41c5-bd0c-eebea22efa71_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/13/n1uvqxyu_1920x1080-ngongvitphieuluuky_296_168.jpg" group-title="PHIM HOẠT HÌNH" , Ngỗng Vịt Phiêu Lưu Ký 
+http://vod-zlr2.tv360.vn/video1/2018/10/23/17/219af4ba/219af4ba-8156-48a3-8cd0-786243dd7296_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ngoilangtiensu_2021050610101.jpg" group-title="PHIM HOẠT HÌNH" , Ngôi Làng Tiền Sử 
+http://vod-zlr2.tv360.vn/video1/2018/08/21/19/d6e6c042/d6e6c042-d752-430c-b7cc-02727f3a643e_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/17/qc4h3eq9_1920x1080-phivuhatde2.jpg" group-title="PHIM HOẠT HÌNH" , Phi Vụ Hạt Dẻ 2: Công Viên Đại Chiến  
+http://vod-zlr2.tv360.vn/video1/2020/01/16/16/1a8f12f9/1a8f12f9-afe9-4a9a-b92f-ad37dd526fc9_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/sLc_YA0tkGs/maxresdefault.jpg" group-title="PHIM HOẠT HÌNH" , Người Bạn Ngoài Hành Tinh 
+http://vod-zlr2.tv360.vn/video1/2020/04/03/18/b658722a/b658722a-f50d-4db5-b25d-58461d77738c_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://s3img.vcdn.vn/123phim/2017/10/pony-be-nho-khong-qua-xuat-sac-nhung-van-khien-khan-gia-nho-hao-hung-15086021216818.jpg" group-title="PHIM HOẠT HÌNH" , Pony Bé Nhỏ  
+http://vod-zlr2.tv360.vn/video1/2020/05/24/21/f2067f56/f2067f56-f3cc-41fe-9db7-67ce36c45fbf_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://imageakm1.tv360.vn/image1/2021/06/28/10/464ac549/464ac549-2fea-45e5-90e3-169edebbbf70_640_360.jpg" group-title="PHIM HOẠT HÌNH" , Bob Chàng Thợ Xây Chăm Chỉ Đội Cỗ Máy Khổng Lồ  
+https://s3img.vcdn.vn/123phim/2017/10/pony-be-nho-khong-qua-xuat-sac-nhung-van-khien-khan-gia-nho-hao-hung-15086021216818.jpg
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/13/qctn8wyp_1920x1080huyenthoaixuoz.jpg" group-title="PHIM HOẠT HÌNH" , Huyền Thoại Xứ Oz: Dorothy Trở Lại 
+http://vod-zlr2.tv360.vn/video1/2020/02/24/16/9aac768d/9aac768d-1e06-4b68-beb4-3b77febf0f02_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://p8.pstatp.com/origin/pgc-image/4119ed28052a46b38d6eab8de7416dbb.jpeg" group-title="PHIM HOẠT HÌNH" , Đi tìm hào quang 1: Mặt nạ trong gương 
+http://vod-zlr2.tv360.vn/video1/2020/10/20/16/3d484d44/3d484d44-cb16-49e2-aeb6-eefb38be6b42_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/hGqyjjXkoM6IBUx72yoqQkES7nQz6voHhkBZyetqCrZOL8Ajlqp1jLRm6Xf46V8i_R4tBVFWbS7v5v34so5Vvs8APqqkImDFjxqDbNc4K-0VcwsD8IWMeC9KCQcD4cAPqHGEUD9cM14hnIRHRbR5JXF99w83EiGo14MY6VX8pQ" group-title="PHIM HOẠT HÌNH" , Raven Tinh Nghịch Truy Tìm Kho Báu 
+http://vod-zlr2.tv360.vn/video1/2021/06/28/14/fd44b6e4/fd44b6e4-b4e3-4a49-a50a-ec1b35fc865b_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/15_12_2020/kungfu-12-con-giap-fpt-play-kung-fu-masters-of-the-zodiac-3-fpt-play15-12-2020_09g52-32.jpg" group-title="PHIM HOẠT HÌNH" , Sự Khởi Nguồn Của 12 Con Giáp 
+http://vod-zlr2.tv360.vn/video1/2020/11/12/14/322a825c/322a825c-011c-4510-9857-5cde8f998aba_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/VOCiR26SfVg/maxresdefault.jpg" group-title="PHIM HOẠT HÌNH" ,  Hội Thú Bông Ngộ Nghĩnh 
+http://vod-zlr2.tv360.vn/video1/2020/08/31/22/06b89968/06b89968-3e58-440e-942e-bbaec72242b8_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://gaylegarnerroski.com/wp-content/uploads/photo-gallery/Illustrations/masks/Giant_Masks-Pages7&4.jpg" group-title="PHIM HOẠT HÌNH" ,  Đi tìm hào quang 4: Tìm rồng ở Dũng Tuyền 
+http://vod-zlr2.tv360.vn/video1/2020/10/20/16/00286bc0/00286bc0-f42e-4f04-82ea-3cd242207a2a_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/yXQZZ_UwBQrky27lO6peUFzu-foU3UQLhLFeisftsnB7L2X7TOVrgOQITjcFt2K4S9yaJO0Vi7cNdFmiRUH54J5YFF_-GzMxmjPYwicRCK8X2BCuG9MjxQuE6XAQsCpUaPFCBJcFnSWqv_OSFpf5qn6SuGiaQd7nD4opodFL" group-title="PHIM HOẠT HÌNH" ,  - Ai là cao thủ võ lâm?Phim Hoạt Hình
+http://vod-zlr2.tv360.vn/video1/2020/10/23/16/7529524c/7529524c-0e69-4e81-9c4b-5fc5240a5b1f_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://rapchieuphim.com/photos/3/phim-phi-vu-hat-de-2-cong-vien-dai-chien/phim-phi-vu-hat-de-2-cong-vien-dai-chien.jpg" group-title="PHIM HOẠT HÌNH" , Phi Vụ Hạt Dẻ  
+http://vod-zlr2.tv360.vn/video1/2021/04/08/09/238150a0/238150a0-f3cd-464d-a502-aad447dc6eda_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://kenh14cdn.com/thumb_w/600/6lnffOHA9gPXbn4CuEkXJZ6Pdcccc/Image/2014/12/ava-ab7dd.jpg" group-title="PHIM HOẠT HÌNH" ,  Giáng Sinh Trên Vũ Trụ 
+http://vod-zlr2.tv360.vn/video1/2021/08/05/16/ae113c1c/ae113c1c-ebbb-4455-bd14-edd12092e891_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/08/11/irii3qp9_1920x1080-haidovabaychulun.jpg" group-title="PHIM HOẠT HÌNH" ,  Hài Đỏ và Bảy Chú Lùn 
+http://vod-zlr2.tv360.vn/video1/2020/09/22/14/d5b43413/d5b43413-24a1-4973-9e27-093c78938ab4_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.ytimg.com/vi/7fMgM-33QVU/maxresdefault.jpg" group-title="PHIM HOẠT HÌNH" , Ong Nhí Phiêu Lưu Ký: Đại Chiến Cúp Ong Mật 
+http://vod-zlr2.tv360.vn/video1/2021/06/08/14/6b707b71/6b707b71-92ff-4c9d-ac9f-4f2c37c54b7d_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/qnDoJWXmYeEvreHaF4PIlG-8o3exKIad5HRHzL4zoMM-HONQBUHMLCZcxzdCkAR0SXNakC1QFRiOEpDBRRaeCYIGCyJ0z6hNcU_3N04oOzpb1CDs2JeMcKcFAW530jY7V4_vXbduwiqZcaa0wYn6lLfyhJoilurZ01qqOc3-kA" group-title="PHIM HOẠT HÌNH" ,  Lính Cứu Hỏa Sam Báo Động Người Ngoài Hành Tinh 
+http://vod-zlr2.tv360.vn/video1/2021/05/21/18/849d8469/849d8469-24c4-4866-a488-f51226c7eefc_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://static.fptplay.net/static/img/share/video/16_08_2018/sam-sieu-dang-3-1920-x-108016-08-2018_16g14-59.jpg" group-title="PHIM HOẠT HÌNH" , Lính Cứu Hỏa Sam Sẵn Sàng Hành Động 
+http://vod-zlr2.tv360.vn/video1/2021/05/21/18/005721be/005721be-598e-4d80-a286-493bea6480e2_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRexr8hrS_tnLYj91Lh2zuvqgRRRjEMIxe8ycgG10nPj9D_ec2L4l8Nszey1UKf8_BP95s&usqp=CAU" group-title="PHIM HOẠT HÌNH" , Đứa Trẻ Bị Lãng Quên 
+http://vod-zlr2.tv360.vn/video1/2021/05/13/22/1212dc1f/1212dc1f-b538-47c9-8a85-ea71b5a2ecca_4_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://i.imgur.com/9oe78Ph.jpg" group-title="PHIM HOẠT HÌNH" , Vũ Điệu Thần Tiên 
+http://vod-zlr2.tv360.vn/video1/2021/04/29/14/5c587c08/5c587c08-26bf-4f70-a589-ca7dc5e50eea_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="https://lh3.googleusercontent.com/proxy/qIc56QIws4RPWOfD2ObpCrRYepfZCA0ElDBXoplo3rSR4IFmLyrnOLFsV_DBSwwE1wTskp2MHOPLll0fyWfkk7kP-m-Vr4MK-5hK4tJJHSN97JeDF9lQd8w-ke63VrrPwmMgIFjxUn7w1saV0Xb5Bdts9As2hsemW4TTnEQGgQ" group-title="PHIM HOẠT HÌNH" , Lọ Lem: Chuyện Chưa Kể 
+http://vod-zlr2.tv360.vn/video1/2021/04/19/17/a9c05a57/a9c05a57-927a-4248-8d41-ea512d19078c_5_.m3u8
+#EXTINF:-1 tvg-id="phim"  tvg-logo="http://1.bp.blogspot.com/-PkVYQIF-iYg/VNmncBdM6bI/AAAAAAAAJJM/eePgZx9GoHE/s1600/dumb-and-dumber-to-banner-800x436.jpg" group-title="PHIM HOẠT HÌNH" ,  Siêu Ngốc Gặp Nhau 
+http://vod-zlr2.tv360.vn/video1/2021/04/15/10/3eb1f96b/3eb1f96b-f4e6-45dc-b183-87650d17c97e_5_.m3u8
+
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-nguoi-sat-iron-man-id_8472_1390553262px9Lr.jpg", Iron man – Người sắt (2008)   
+https://1080.hdphimonline.com/20220315/2043_1b0edafb/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-nguoi-khong-lo-xanh-phi-thuong-the-incredible-hulk-id_1910_343114220PgMrN.jpg", Người khổng lồ xanh phi thường (2008)
+https://hd.hdbophim.com/20220224/131_95784256/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-nguoi-sat-2-iron-man-2-id_5661_384266839VxZyE.jpg", Iron Man 2 – Người Sắt 2 (2010)
+https://1080.hdphimonline.com/20220315/2044_9b1bc26b/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-than-sam-thor-id_4020_1568531330PfH7p.jpg", Thor – Thần Sấm (2011)
+https://1080.hdphimonline.com/20220315/2079_861644e1/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-ke-bao-thu-dau-tien-captain-america-the-first-avenger-id_5304_1566121568NM2gR.jpg", Captain America: Kẻ báo thù đầu tiên (2011)
+https://1080.hdphimonline.com/20220314/1866_8e486269/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-sieu-anh-hung-bao-thu-the-avengers-id_2162_203963824wrjPD.jpg", Biệt đội siêu anh hùng  (2012)
+https://1080.hdphimonline.com/20220314/1861_b3b7cf74/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/nguoi-sat-3-6756-300x450.jpg", Iron Man 3 - Người Sắt 3 (2013)
+https://1080.hdphimonline.com/20220315/2045_2e19a51d/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-thor-the-gioi-bong-toi-thor-the-dark-world-id_1988_1872105732csJtN.jpg", Thor: Thế giới bóng tối (2013)
+https://1080.hdphimonline.com/20220314/1941_168942bf/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-chien-binh-mua-dong-captain-america-the-winter-soldier-id_5219_199054079bIfnz.jpg", Captain America: Chiến binh mùa đông
+https://1080.hdphimonline.com/20220314/1865_7944c3fc/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-ve-binh-dai-ngan-ha-guardians-of-the-galaxy-id_2035_1718722532EtK6H.jpg", Vệ binh dải ngân hà  (2014)
+https://1080.hdphimonline.com/20220315/2090_03b96925/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-biet-doi-sieu-anh-hung-2-de-che-ultron-avengers-2-age-of-ultron-id_1963_946303376Hb4Vw.jpg", Avengers: Đế chế Ultron –  (2015)
+https://kd.hd-bophim.com/20220423/9461_850630dd/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-nguoi-kien-ant-man-id_1937_151327890227veW.jpg", Ant-Man – Người Kiến (2015)
+https://hd.1080phim.com/20220409/3072_ffcc46b6/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-captain-america-3-noi-chien-sieu-anh-hung-captain-america-civil-war-id_5005_17969305774ETGx.jpg", Captain America: Nội chiến siêu anh hùng (2016)
+https://1080.hdphimonline.com/20220314/1867_a3fad25d/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-phu-thuy-toi-thuong-doctor-strange-id_1840_559605159vlGgk.jpg", Doctor Strange – Phù thủy tối thượng (2016)
+https://1080.hdphimonline.com/20220315/2052_271291b2/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Marvel" tvg-logo="https://dataqq.net/tvhay/film/65729/poster.jpg?v=1669571955",Chủng Tộc Bất Tử        
+https://kd.hd-bophim.com/20220318/1655_5fb51a3a/1000k/hls/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="Phim DC Comic" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-Nguoi-Dan-Ong-Thep-id_542_2065460021odDTk.jpg", Man of Steel – Người đàn ông thép (2013)   
+https://hd.1080phim.com/20220316/1454_64704552/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim DC Comic" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-batman-dai-chien-superman-anh-sang-cong-ly-batman-v-superman-dawn-of-justice-id_5933_1209883754PIVYi.jpg", Batman đại chiến Superman: Ánh sáng công lý (2016)   
+https://hd.1080phim.com/20220316/1402_54aa7ffe/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim DC Comic" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/16/Bi%E1%BB%87t_%C4%91%E1%BB%99i_c%E1%BA%A3m_t%E1%BB%AD.jpg", Suicide Squad – Biệt đội cảm tử (2016)   
+https://aa.nguonphimmoi.com/20220409/8719_040d903c/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim DC Comic" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ed/Wonder_Woman_%282017_film%29.jpg", Wonder Woman – Nữ thần chiến binh (2017)  
+https://hd.1080phim.com/20220316/1457_5011f69c/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim DC Comic" tvg-logo="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQGGdr8YC_qyAK9ooU5OsNMaRjeioFJpRDlqXgfFh8gBJuG1XfHyU8bMhehYOa0N2T0", Justice League – Liên minh Công lý (2017)
+https://hd.1080phim.com/20220316/1457_5011f69c/1000k/hls/mixed.m3u8
+
+
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://tvhayss.org/uploads/movies/bong-de-thumb.jpg", Bóng Đè
+https://hd.hdbophim.com/20220615/16927_a81b94bf/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/ke-trom-cho-47160-1-300x450.jpg", Kẻ Trộm Chó
+https://kd.hd-bophim.com/20230110/29211_1bb76010/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/my-nhan-than-sach-47904-1-300x450.jpg", Mỹ nhân thần sách
+https://kd.hd-bophim.com/20230113/29398_9b69fef7/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://tvhayss.org/uploads/movies/ve-que-an-tet-thumb.jpg", VỀ QUÊ ĂN TẾT
+https://kd.hd-bophim.com/20230109/29204_b6df525c/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/anh-thay-ngoi-sao-2715-300x450.jpg", Anh thầy ngôi sao
+https://hd.1080phim.com/20220303/491_726921a5/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/em-chua-18-47178-1-300x450.jpg", Em chưa 18
+https://kd.hd-bophim.com/20230109/29199_f0f8b7f7/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/duyen-ma-46477-1-300x450.jpg", Duyên Ma
+https://kd.hd-bophim.com/20230101/28967_21edc99d/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://cdn.galaxycine.vn/media/2022/4/21/300wx450h_1650530129744.jpg", Những Cô Vợ Hành Động
+https://1080.hdphimonline.com/20221124/37719_82b6ff11/2374413/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/dan-choi-khong-so-con-roi-41179-1-300x450.jpg", Dân chơi không sợ con rơi
+https://1080.hdphimonline.com/20221103/37035_775a6232/2461540/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/nghe-sieu-de-36613-1-300x450.jpg", Nghề Siêu Dễ
+https://hd.1080phim.com/20220729/26199_46484dda/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/thien-than-ho-menh-27173-1-300x450.jpg", Thiên thần hộ mệnh
+https://hd.1080phim.com/20220303/481_85491c37/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/nguoi-la-oi-5041-300x450.jpg", Người lạ ơi
+https://1080.hdphimonline.com/20220311/1531_49751df1/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/linh-duyen-42449-1-300x450.jpg", Linh Duyên
+https://hd.hdbophim.com/20221123/26385_042ae249/3000000/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/con-ma-nha-ho-vuong-42254-1-300x450.jpg", Con Ma Nhà Họ Vương
+https://hd.hdbophim.com/20221120/26198_8ab7218c/1999072/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/thang-may-41962-1-300x450.jpg", Thang Máy
+https://hd.hdbophim.com/20221116/26035_8ae84283/1163617/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c4/Thatsontamlinhphim.jpg", Thất Sơn Tâm Linh
+https://kd.hd-bophim.com/20220624/15425_32e2fde1/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/bay-ngot-ngao-31182-1-300x450.jpg", Bẫy Ngọt Ngào
+https://kd.hd-bophim.com/20220624/15422_843bce13/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/1/2/1200x1800.jpg", Bố Già
+https://kd.hd-bophim.com/20220624/15426_a83d4662/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/Tiec_trang_mau_poster.jpg", Tiệc Trăng Máu
+https://kd.hd-bophim.com/20220624/15423_ae4f7fcd/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/tinh-dau-tho-ngay-6136-300x450.jpg", Tình Đầu Thơ Ngây
+https://hd.1080phim.com/20220314/1292_d0741aa6/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/ma-dai-6101-300x450.jpg", Ma Dai
+https://kd.hd-bophim.com/20220314/978_0a221f46/1000k/hls/index.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/vong-eo-56-5236.jpg", Vòng eo 56
+https://aa.nguonphimmoi.com/20220312/3091_75a9a952/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/trai-tim-quai-vat-5234-300x450.jpg", Trái tim quái vật
+https://aa.nguonphimmoi.com/20220312/3089_d60a3fd6/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/choi-thi-chiu-5073-300x450.jpg", CHƠI THÌ CHỊU
+https://1080.hdphimonline.com/20220311/1476_f6f4bd7a/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/sieu-sao-sieu-ngo-5036-300x450.jpg", Siêu sao siêu ngố
+https://1080.hdphimonline.com/20220311/1528_f7bec29b/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/cho-em-gan-anh-them-chut-nua-5039-300x450.jpg", Cho EM gần ANH thêm chút nữa
+https://1080.hdphimonline.com/20220311/1530_540c5540/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/yeu-la-phai-xai-chieu-5026-300x450.jpg", Yêu là phải xài chiêu
+https://1080.hdphimonline.com/20220311/1520_8ae84abe/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://kenh14cdn.com/thumb_w/600/27fc8f4935/2015/10/19/12CSVDCYCtrailerposter-b449c.jpg", 12 chòm sao: Vẽ đường cho yêu chạy
+https://1080.hdphimonline.com/20220311/1524_2fd45647/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/tim-vo-cho-ba-5018-300x450.jpg", Tìm vợ cho bà
+https://1080.hdphimonline.com/20220311/1513_e28a58d1/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/tik-tak-anh-yeu-em-5016-300x450.jpg", Tik Tak Anh Yêu Em
+https://1080.hdphimonline.com/20220311/1509_ad781bb3/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDFkYWItNjQ4Zi00N2E4LTk2NWItYzE3OGQxNTY5ZTc4XkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_.jpg", Em gái mưa
+https://1080.hdphimonline.com/20220311/1493_f2b4cbbd/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/14-ngay-phep-5030-300x450.jpg", 14 Ngày Phép
+https://1080.hdphimonline.com/20220311/1525_35f4c54d/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/taxi-em-ten-gi-4723-300x450.jpg", Taxi, em tên gì? 
+https://aa.nguonphimmoi.com/20220311/3053_bcf85abb/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/ke-hoach-doi-chong-4711-300x450.jpg", KẾ HOẠCH ĐỔI Chồng
+https://1080.hdphimonline.com/20220309/1328_347a8570/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/sac-dep-ngan-can-4674-300x450.jpg", Sắc đẹp ngàn cân 
+https://aa.nguonphimmoi.com/20220310/2935_56c2de28/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/hanh-phuc-cua-me-4654-300x450.jpg", Hạnh phúc của mẹ
+https://aa.nguonphimmoi.com/20220310/2960_d87c0e96/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Poster_nha_co_5_nang_tien.jpeg", Nhà Có 5 Nàng Tiên
+https://1080.hdphimonline.com/20220309/1331_2429af60/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/thang-5-de-danh-4597-300x450.jpg", Tháng 5 Để Dành
+https://1080.hdphimonline.com/20220309/1335_e657d7f9/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/ngoi-nha-buom-buom-4555-300x450.jpg", Ngôi nhà bươm bướm
+https://1080.hdphimonline.com/20220309/1373_270a8226/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/quy-co-thua-ke-4549-300x450.jpg", Quý cô thừa kế
+https://1080.hdphimonline.com/20220309/1358_233fab80/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Việt Nam" tvg-logo="https://tvhayss.org/uploads/movies/tia-tui-la-cao-thu-thumb.jpg", TÍA TUI LÀ CAO THỦ
+https://1080.hdphimonline.com/20220309/1365_dc6634c1/1000k/hls/mixed.m3u8
+
+
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/dai-chien-robot-934-300x450.jpg", Transformers 1: Đại chiến Robot
+https://hd.hdbophim.com/20220224/127_49b33a88/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/transformers-bai-binh-phuc-han-952-300x450.jpg", Transformers 2: Bại binh phục hận
+https://hd.hdbophim.com/20220225/168_0ec7ed6b/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/transformers-vung-toi-cua-mat-trang-960-300x450.jpg", Transformers 3: Vùng tối của mặt trăng
+https://hd.hdbophim.com/20220225/172_3e8ff0bb/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/transformers-4-ky-nguyen-huy-diet-926-300x450.jpg", Transformers 4: Kỷ nguyên hủy diệt
+https://hd.hdbophim.com/20220224/124_1f6a7826/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/transformers-chien-binh-cuoi-cung-972-300x450.jpg", Transformers 5: Chiến binh cuối cùng
+https://hd.hdbophim.com/20220224/138_0cb11a74/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/robot-dai-chien-bumblebee-14431-300x450.jpg", Bumblebee
+https://aa.nguonphimmoi.com/20220424/12209_ae6b7634/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Transformers" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvgja_ba9IaxQhWaYiNtqOfTAly_RXoUij8iIJ62fEVMF-_WWz", TRANSFORMERS: QUÁI THÚ TRỖI DẬY
+https://aa.nguonphimmoi.com/20220424/12209_ae6b7634/1000k/hls/mixed.m3u8
+
+
+#EXTINF:0 group-title="Phim Thiên Sư Bắt Ma" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/thien-su-bat-ma-1-cuong-thi-tien-sinh-13126-300x450.jpg", Thiên Sư Bắt Ma 1: Cương Thi Tiên Sinh
+https://hd.1080phim.com/20220415/4077_708c72b1/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Thiên Sư Bắt Ma" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/thien-su-bat-ma-3-linh-huyen-tien-sinh-13124-300x450.jpg", Thiên Sư Bắt Ma 3: Linh Huyễn Tiên Sinh
+https://hd.1080phim.com/20220415/4078_538dc459/1000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Thiên Sư Bắt Ma" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/thien-su-bat-ma-4-13122-300x450.jpg", Thiên Sư Bắt Ma 4
+https://hd.1080phim.com/20220415/4079_1cec1ba0/1000k/hls/index.m3u8
+
+
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/02/nhung-co-thu-ki-xinh-dep-cua-sep-70101-1-300x443.jpg", Những Cô Thư Kí Xinh Đẹp Của Sếp
+https://vie.haiphim.com/20230220/26381_fecad515/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/02/khi-nhung-nu-sinh-dai-hoc-lam-them-69629-1-300x450.jpg", Khi Những Nữ Sinh Đại Học Làm Thêm
+https://vie.haiphim.com/20230214/26338_9422d454/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/02/bi-mat-hoan-doi-nguoi-yeu-69059-1-300x450.jpg", Bí Mật Hoán Đổi Người Yêu
+https://vie.haiphim.com/20230208/26296_6ee75f81/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/02/nhung-gi-anh-ay-noi-68677-1-300x450.jpg", Những Gì Anh Ấy Nói
+https://hd.1080phim.com/20230202/32455_b86286c4/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/02/tho-san-ban-thiu-68668-1-300x450.jpg", Thợ Săn Bẩn Thỉu
+https://hd.1080phim.com/20230202/32458_ecc89a28/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/diet-of-sex-47154-1-300x450.jpg", Diet Of Sex
+https://kd.hd-bophim.com/20230110/29217_137dab1c/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/pamasahe-45272-1-300x450.jpg", Pamasahe
+https://hd.hdbophim.com/20221219/27555_2e7329c3/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/vang-cua-selina-42470-1-300x450.jpg", Vàng Của Selina
+https://1080.hdphimonline.com/20221124/37745_a71ff21d/3000000/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/sabel-van-con-tre-47785-1-300x450.jpg", Sabel Vẫn Còn Trẻ
+https://hd.1080phim.com/20230113/31661_06a529c0/3000k/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/nang-ham-hoc-hoi-39794-1-300x450.jpg", Nàng ham học hỏi
+https://hd.hdbophim.com/20221011/23677_2513805a/5000000/hls/mixed.m3u8
+#EXTINF:0 group-title="Phim Tâm Lý" tvg-logo="https://phephim.cc/wp-content/uploads/2023/01/nathalie-thoat-khoi-dia-nguc-39154-1-300x450.jpg", Nathalie: Thoát Khỏi Địa Ngục
+https://hd.hdbophim.com/20220930/23015_6228d08f/1000k/hls/index.m3u8
+
+
+
+
