@@ -20,7 +20,9 @@ https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jUaUlWSEeNweDa/KcGZoMw", "kid":"ofsB7FnPR369RbhxqFjrGg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bdb74b81a6197fc1eddc000b9af3ca5b/1688376368353/qnet/live_dzones/hbo.smil/manifest.mpd?codec=hvc
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livetvbydtpro.duckdns.org:8123/decryption.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d99dd8d97f7c04f1f2abcd2856d21a1d/1688381008114/qnet/live_dzones/bbcworldnews.smil/manifest.mpd?codec=hvc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vieon.vn/truyen-hinh-truc-tuyen/bbc-world-news-1/?utm_source=google&utm_medium=cpc&utm_campaign=approi_VieON_SEM_Brand_BOS_Exact_VieON_ALL_1865B_T_Mainsite&utm_content=p_--k_vieon&pid=approi&c=approi_VieON_SEM_Brand_BOS_Exact&af_adset=approi_VieON_SEM_Brand_BOS_Exact_VieON_ALL_1865B&af_force_deeplink=false
