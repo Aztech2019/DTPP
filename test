@@ -5,38 +5,29 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 ##VTV
+
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/85b415236b2e53bd111f862ea6581a7c/1688483404704/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v4/index.fmp4.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/85b415236b2e53bd111f862ea6581a7c/1688483404704/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v4/index.fmp4.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
-http://42.117.13.32:4022/udp/225.1.1.248:30120
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
-http://192.168.1.1:0/udp/225.1.2.249:30120
-#EXTINF:-1,CNN
-http://42.117.13.32:4022/udp/225.1.1.242:30120
-===========K+ HD============== code vetontv
-#EXTINF:-1 tvg-id="ksport1hd" group-title="⭕ K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jUaUlWSEeNweDa/KcGZoMw", "kid":"ofsB7FnPR369RbhxqFjrGg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/bdb74b81a6197fc1eddc000b9af3ca5b/1688376368353/qnet/live_dzones/hbo.smil/manifest.mpd?codec=hvc
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://livetvbydtpro.duckdns.org:8123/decryption.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d99dd8d97f7c04f1f2abcd2856d21a1d/1688381008114/qnet/live_dzones/bbcworldnews.smil/manifest.mpd?codec=hvc
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vieon.vn/truyen-hinh-truc-tuyen/bbc-world-news-1/?utm_source=google&utm_medium=cpc&utm_campaign=approi_VieON_SEM_Brand_BOS_Exact_VieON_ALL_1865B_T_Mainsite&utm_content=p_--k_vieon&pid=approi&c=approi_VieON_SEM_Brand_BOS_Exact&af_adset=approi_VieON_SEM_Brand_BOS_Exact_VieON_ALL_1865B&af_force_deeplink=false
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d99dd8d97f7c04f1f2abcd2856d21a1d/1688381008114/qnet/live_dzones/bbcworldnews.smil/manifest.mpd?codec=hvc
-
-KODIPROP:inputstream.adaptive.license_type=	*.vieon.vn
-#KODIPROP:inputstream.adaptive.license_key=https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/e36f661e4a710133fc1f00e922a52f98/1688437100415/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.mpd?codec=avc
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=5LP8TLRfoqD5eqKI%2Ft%2FH7BELNn64VSk%2BNgRfW9%2FSPu3B9%2Fo%2FZt98Zc8aP9%2FlHbkv2oEzi3oiMpzfcP0OIcSYohZqn1MtY2wfdnrEirZqkOr4N4Rnaff4GuMEcXQn5sxTfeCwGKW%2Ft30z3khWolbXybdALPVFbqd%2BAbnbLqH2chHWGA6WgVQhGPn%2BvpeeWDu0cJf5CjJESlkV35S%2FX4vXhn6A8M4z%2FGupnJ7h7IQSkkWctg3b%2FiR80DTe49OdCFgc||R{SSM}|
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/e36f661e4a710133fc1f00e922a52f98/1688437100415/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.mpd?codec=avc
-## ok
-
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/3bccfbb216e1dd457778238ef83467ba/1688483648306/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-v4/index.fmp4.m3u8
+#https://106135605.vws.vegacdn.vn/482bv5vwwVVFbTo6OyFxxg/1688378827/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/3bccfbb216e1dd457778238ef83467ba/1688483648306/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-v4/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/ac52e6080a8f5b945b76d811a72ab504/1688484038861/livetv/00f4aa36b8d034b5e8569b77d1675c1e/tracks-v4/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/2b913d3f2374b6cd8e33ebc7e9e43d18/1688483948593/livetv/c9e89fdf42233e52a57a312baa4e9da0/tracks-v4/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/733f8e009023f8b95d53cc5ab740b64e/1688484300701/livetv/53a3ed9b2879dc2dcc2051bff6060b37/tracks-a1/index.fmp4.m3u8
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=(_._)
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/1d129a8c63349f4b96b99fafdfb45494/1688484373342/livetv/f1198968254f3d74c366645e9f5e260d/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=(_._)
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/544bac6b76d53c3c68fd64c842d733b4/1688484425274/livetv/fa394ebe0828aa7ffdb9ca25d22296de/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/9012146916af29d6687873b4402ef6f9/1688484450138/livetv/fdb7f91923323e646a69ce149f95f6cd/tracks-v4/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/p655IPH.png",VTV7
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/e7fcbf755ebfde107898e7b08b822548/1688484465692/livetv/67d1c84cac97171d714848c4c34c2b3a/tracks-v2/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/BgCVzvG.png",VTV8
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/240479327ceb791c23d32cceff97f279/1688484480323/livetv/fd6b24e22924ecd153258819ba2049b8/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/07d2dc0a62d48dee49ba4d9695775aba/1688484489926/livetv/6f34d2d2b930641beddae9c9480005a7/tracks-v4/index.fmp4.m3u8
