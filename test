@@ -6,9 +6,9 @@
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 ##VTV
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://vie.haiphim.com/20230220/26381_fecad515/3000k/hls/mixed.1
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/85b415236b2e53bd111f862ea6581a7c/1688483404704/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v4/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-http://42.117.13.32:4022/udp/225.1.1.248:30120
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/85b415236b2e53bd111f862ea6581a7c/1688483404704/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v4/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
 http://42.117.13.32:4022/udp/225.1.1.248:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
