@@ -29,5 +29,5 @@ https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/9012146916af29d6687873b4402ef6f9/1
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/e7fcbf755ebfde107898e7b08b822548/1688484465692/livetv/67d1c84cac97171d714848c4c34c2b3a/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/BgCVzvG.png",VTV8
 https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/240479327ceb791c23d32cceff97f279/1688484480323/livetv/fd6b24e22924ecd153258819ba2049b8/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",TEST
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/325e65a9693bd0a4c7aaeedfd5d7b507/1688484490089/livetv/6f34d2d2b930641beddae9c9480005a7/tracks-v4/index.fmp4.m3u8
