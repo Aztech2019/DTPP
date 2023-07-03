@@ -27,5 +27,11 @@ https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d99dd8d97f7c04f1f2abcd2856d21a1d/1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vieon.vn/truyen-hinh-truc-tuyen/bbc-world-news-1/?utm_source=google&utm_medium=cpc&utm_campaign=approi_VieON_SEM_Brand_BOS_Exact_VieON_ALL_1865B_T_Mainsite&utm_content=p_--k_vieon&pid=approi&c=approi_VieON_SEM_Brand_BOS_Exact&af_adset=approi_VieON_SEM_Brand_BOS_Exact_VieON_ALL_1865B&af_force_deeplink=false
 https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/d99dd8d97f7c04f1f2abcd2856d21a1d/1688381008114/qnet/live_dzones/bbcworldnews.smil/manifest.mpd?codec=hvc
+
+KODIPROP:inputstream.adaptive.license_type=	*.vieon.vn
+#KODIPROP:inputstream.adaptive.license_key=https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/e36f661e4a710133fc1f00e922a52f98/1688437100415/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.mpd?codec=avc
+
+
 ## ok
 
