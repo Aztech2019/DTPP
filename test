@@ -6,9 +6,8 @@
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 ##VTV
 
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/3bccfbb216e1dd457778238ef83467ba/1688483648306/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-v4/index.fmp4.m3u8
-#https://106135605.vws.vegacdn.vn/482bv5vwwVVFbTo6OyFxxg/1688378827/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",BBC
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/c6876190fe7dd81a4900d2420b5de579/1688485014398/livetv/6d8dfd97165650a8935c57262d9be67f/tracks-v4/index.fmp4.m3u8#https://106135605.vws.vegacdn.vn/482bv5vwwVVFbTo6OyFxxg/1688378827/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
 https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/3bccfbb216e1dd457778238ef83467ba/1688483648306/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-v4/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3
