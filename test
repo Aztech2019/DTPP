@@ -13,7 +13,8 @@ http://42.117.13.32:4022/udp/225.1.1.248:30120
 http://42.117.13.32:4022/udp/225.1.1.248:30120
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
 http://192.168.1.1:0/udp/225.1.2.249:30120
-
+#EXTINF:-1,CNN
+http://42.117.13.32:4022/udp/225.1.1.242:30120
 ===========K+ HD============== code vetontv
 #EXTINF:-1 tvg-id="ksport1hd" group-title="⭕ K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
