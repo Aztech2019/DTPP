@@ -5,7 +5,7 @@
 ##VTV
 
 
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTVr
 #https://livecdn-vthn-vnw.vieon.vn/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v5/index.fmp4.m3u8
 https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/2fa8b313a9347fb134cb65aaabf91d9e/1688659815661/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v5/index.fmp4.m3u8
 #https://106135605.vws.vegacdn.vn/482bv5vwwVVFbTo6OyFxxg/1688378827/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8
