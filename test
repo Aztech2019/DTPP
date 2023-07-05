@@ -6,14 +6,19 @@
 
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTVr
+#EXTVLCOPT:http-user-agent=(_._)
 https://vips-livecdn.fptplay.net/fnxhd1/vtv1hd_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
+#EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-v5/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3
+#EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/00f4aa36b8d034b5e8569b77d1675c1e/tracks-v5/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4
+#EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/c9e89fdf42233e52a57a312baa4e9da0/tracks-v5/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5
+#EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/53a3ed9b2879dc2dcc2051bff6060b37/tracks-v5/index.fmp4.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=(_._)
