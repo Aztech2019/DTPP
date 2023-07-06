@@ -2,12 +2,20 @@
 #EXTM3U url-tvg="http://gg.gg/47fpt" refresh="3600" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg=
+#EXTM3U url-tvg="https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn"
 ##VTV
 
 
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTVr
-#EXTVLCOPT:http-user-agent=(_._)
-https://vips-livecdn.fptplay.net/fnxhd1/vtv1hd_4000.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/tracks-v5/index.fmp4.m3u8
@@ -49,3 +57,10 @@ https://livecdn-vthn-vnw.vieon.vn/livetv/42c1afe4371b9c51439cd091a8b6ac41/tracks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.vieon.vn/backend/cm/v5/get-config?key=message_config&platform=web&ui=012021
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/850fe31298cbe70ea8b9dde65a6ea527/1688688799286/kplus/manifest/kplus_life/master.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.appspot.com/proxy||R{SSM}|
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/d6a9a4f9419ec2e6d4424acba7aa6a2a/1688725990230/kplus/manifest/kplus_sport_2/master.mpd?codec=hvc&token=Zjc2YWY3NDEtYTM0My0yYzNhLTE1YjUtMTU5NmRmMzdkMDhlfHdlYnw4MTk1NjAzNTY3ZjRjMDY0YTNlYjNhYWU1MjE4MGYxNHxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDIwMzRFfGU0YWM1ZjQzZWExMTBkODhlY2Q4OWQxMmE3YjExNzQz
