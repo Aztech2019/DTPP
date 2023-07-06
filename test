@@ -48,5 +48,4 @@ https://livecdn-vthn-vnw.vieon.vn/livetv/42c1afe4371b9c51439cd091a8b6ac41/tracks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.vieon.vn/backend/cm/v5/get-config?key=message_config&platform=web&ui=012021
-https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/850fe31298cbe70ea8b9dde65a6ea527/1688688799286/kplus/manifest/kplus_life/master.mpd?codec=hvc&token=Zjc2YWY3NDEtYTM0My0yYzNhLTE1YjUtMTU5NmRmMzdkMDhlfHdlYnw4MTk1NjAzNTY3ZjRjMDY0YTNlYjNhYWU1MjE4MGYxNHw0MDM2NDI3YS02NTMyLTRkMDktYmUxZi1hYWY1ODczYzdlNDd8bGl2ZXR2fDFGNjY1fDk0YjFjMDA4OTI4M2E4OWJiN2ZlMDUzZWY4NjVkYzc3
-
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/850fe31298cbe70ea8b9dde65a6ea527/1688688799286/kplus/manifest/kplus_life/master.mpd
