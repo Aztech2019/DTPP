@@ -58,11 +58,16 @@ https://livecdn-vthn-vnw.vieon.vn/livetv/42c1afe4371b9c51439cd091a8b6ac41/tracks
 #KODIPROP:inputstream.adaptive.license_key=https://api.vieon.vn/backend/cm/v5/get-config?key=message_config&platform=web&ui=012021
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/850fe31298cbe70ea8b9dde65a6ea527/1688688799286/kplus/manifest/kplus_life/master.mpd
 
-#EXTINF:-1 tvg-id="klive2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg",K+LIVE tset
+#EXTINF:-1 tvg-id="klive2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg",K+LIVE tse
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.appspot.com/proxy||R{SSM}|
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/d6a9a4f9419ec2e6d4424acba7aa6a2a/1688725990230/kplus/manifest/kplus_sport_2/master.mpd?codec=hvc&token=Zjc2YWY3NDEtYTM0My0yYzNhLTE1YjUtMTU5NmRmMzdkMDhlfHdlYnw4MTk1NjAzNTY3ZjRjMDY0YTNlYjNhYWU1MjE4MGYxNHxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDIwMzRFfGU0YWM1ZjQzZWExMTBkODhlY2Q4OWQxMmE3YjExNzQz
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAR
+#KODIPROP: inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=cleark ey
+#KODIPROP:inputstream.adaptive.license_key={"d2e15 fc39d9052a0bf5edf17498785ea":"543ddd241709882d8cbb 162c2c11b96 4","e2c88c1cec785475ab6b05a1c4d15a78":"06b891b1953211c8286bb312ad05e9e5","4435432010f45dd 9967dce3cde18664b" :"0d0bf2e2e7799ff26c8bb82b1be67c 8a"}
 https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/d6a9a4f9419ec2e6d4424acba7aa6a2a/1688725990230/kplus/manifest/kplus_sport_2/master.mpd?codec=hvc&token=Zjc2YWY3NDEtYTM0My0yYzNhLTE1YjUtMTU5NmRmMzdkMDhlfHdlYnw4MTk1NjAzNTY3ZjRjMDY0YTNlYjNhYWU1MjE4MGYxNHxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDIwMzRFfGU0YWM1ZjQzZWExMTBkODhlY2Q4OWQxMmE3YjExNzQz
