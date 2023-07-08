@@ -1,39 +1,5 @@
 ##VTV IPTVAZTECH
 
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
-https://livecdn-vthn-vnw.vieon.vn/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8
-#https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/8a4b58d0ae35deedf377f05dde4b7206/1688660928649/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v5/index.fmp4.m3u8
-##doi dong tu https://...../livetv là se ra kenh ok
-#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
-https://livecdn-vthn-vnw.vieon.vn/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3
-https://livecdn-vthn-vnw.vieon.vn/livetv/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4
-https://livecdn-vthn-vnw.vieon.vn/livetv/c9e89fdf42233e52a57a312baa4e9da0/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5
-https://livecdn-vthn-vnw.vieon.vn/livetv/53a3ed9b2879dc2dcc2051bff6060b37/playlist.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
-https://livecdn-vthn-vnw.vieon.vn/livetv/f1198968254f3d74c366645e9f5e260d/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
-https://livecdn-vthn-vnw.vieon.vn/livetv/fa394ebe0828aa7ffdb9ca25d22296de/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6
-https://livecdn-vthn-vnw.vieon.vn/livetv/fdb7f91923323e646a69ce149f95f6cd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/p655IPH.png",VTV7
-https://livecdn-vthn-vnw.vieon.vn/livetv/67d1c84cac97171d714848c4c34c2b3a/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/BgCVzvG.png",VTV8
-https://livecdn-vthn-vnw.vieon.vn/livetv/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
-https://livecdn-vthn-vnw.vieon.vn/livetv/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8
-
-##KÊNH ĐỊA PHƯƠNG IPTVAZTECH
-
-#THVL 
-
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong1hd" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png",VĨNH LONG 1
 https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playist.m3u8
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong2hd" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/08/152364-THVL-2HD-460x260.png",VĨNH LONG 2
-https://livecdn-vthn-vnw.vieon.vn/livetv/8782328c0b24e63b80af42e73fabdad5/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png",VĨNH LONG 3
-https://livecdn-vthcm-vnd.vieon.vn/livetv/d163c8c091b5c937a0b5789d2be251b4/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png",VĨNH LONG 4
