@@ -45,7 +45,7 @@ https://livecdn-vthn-vnw.vieon.vn/livetv/fd6b24e22924ecd153258819ba2049b8/tracks
 https://livecdn-vthn-vnw.vieon.vn/livetv/6f34d2d2b930641beddae9c9480005a7/tracks-v5/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV
 https://livecdn-vthn-vnw.vieon.vn/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-v5/index.fmp4.m3u8
-#EXTINF:-1 group-title="VTC" tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/7U7zQ5v.png",VTC1
+#EXTINF:-1 group-title="VTC" tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/7U7zQ5v.png",VTC11
 https://livecdn-vthn-vnw.vieon.vn/livetv/42c1afe4371b9c51439cd091a8b6ac41/tracks-v1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="klive2hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg",K+LIVE 2
