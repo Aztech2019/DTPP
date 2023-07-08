@@ -13,25 +13,5 @@ https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/d7047a64a701e2461e699f9b2a623017/
 https://vips-livecdn.fptplay.net/epzhd2/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong1" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1
 https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/cb1fa3614f9deaa833dbb39728fbe74d/1688912945272/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.mpd?codec=avc
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:918441
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXT-SYSTEM-INFO:Play-On="FPT Play",Provider="FPT Telecom"
-#EXTINF:4.0,
-media_918441.ts
-#EXTINF:4.0,
-media_918442.ts
-#EXTINF:4.0,
-media_918443.ts
-#EXTINF:4.0,
-media_918444.ts
-#EXTINF:4.0,
-media_918445.ts
-#EXTINF:4.0,
-media_918446.ts
-#EXTINF:4.0,
-media_918447.ts
-#EXTINF:4.0,
-media_918448.ts
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="angiang" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/06/635447-Angiang.png",AN GIANG
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/1df59466eb48f9433d3f79c51505dd31/1688914815688/livetv/7398f17dd64be624bee6e208cc2d03b4/playlist.m3u8
