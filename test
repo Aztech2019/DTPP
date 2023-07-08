@@ -9,6 +9,7 @@ https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/03a469e7724bdf09bf462c435f0a382c/
 https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/dd23a892159fe8f80c368ccbd0e86422/1688913240893/livetv/d163c8c091b5c937a0b5789d2be251b4/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png",VĨNH LONG 4
 https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/d7047a64a701e2461e699f9b2a623017/1688912848781/livetv/759df25e7b439639ed0c2588b776735b/playlist.m3u8
-
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong1" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1
 https://vips-livecdn.fptplay.net/epzhd2/btv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong1" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/211ad19692a3138022c2e97c5092f617/1688913807139/playlist.m3u8
