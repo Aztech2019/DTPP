@@ -37,8 +37,8 @@ https://livecdn-vthn-vnw.vieon.vn/livetv/fa394ebe0828aa7ffdb9ca25d22296de/tracks
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/fdb7f91923323e646a69ce149f95f6cd/tracks-v5/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/p655IPH.png",VTV7
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn-vthn-vnw.vieon.vn/livetv/67d1c84cac97171d714848c4c34c2b3a/tracks-v2/index.fmp4.m3u8
+https://livecdn-vthn-vnw.vieon.vn/livetv/1a1782ddda155d3fa55fca3227f16c3b/playlist.m3u8?codec=hvc
+#https://livecdn-vthn-vnw.vieon.vn/livetv/67d1c84cac97171d714848c4c34c2b3a/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/BgCVzvG.png",VTV8
 https://livecdn-vthn-vnw.vieon.vn/livetv/fd6b24e22924ecd153258819ba2049b8/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
