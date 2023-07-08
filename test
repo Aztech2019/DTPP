@@ -31,8 +31,7 @@ https://livecdn-vthn-vnw.vieon.vn/livetv/53a3ed9b2879dc2dcc2051bff6060b37/tracks
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/f1198968254f3d74c366645e9f5e260d/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/wQvqxH1/VTV5-TN.png",VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn-vthn-vnw.vieon.vn/livetv/fa394ebe0828aa7ffdb9ca25d22296de/tracks-v2/index.fmp4.m3u8
+https://livecdn-vthn-vnw.vieon.vn/livetv/fa394ebe0828aa7ffdb9ca25d22296de/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn-vthn-vnw.vieon.vn/livetv/fdb7f91923323e646a69ce149f95f6cd/tracks-v5/index.fmp4.m3u8
