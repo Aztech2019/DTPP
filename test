@@ -1,6 +1,6 @@
 ##VTV IPTVAZTECH
 
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV1
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV11
 https://livecdn-vthcm-vnd.vieon.vn/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/hfs25pr.gif",VTV2
 https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/1688907979926/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8?codec=hvc
