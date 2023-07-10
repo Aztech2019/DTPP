@@ -1,22 +1,73 @@
+##ĐỊA PHƯƠNG 
 
-##HCTV
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="angiang" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/06/635447-Angiang.png",AN GIANG
+https://livecdn-vthcm-vnw.vieon.vn/livetv/7398f17dd64be624bee6e208cc2d03b4/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vungtau" tvg-logo="https://mytv.com.vn/upload/channel/721.png",BÀ RỊA_VŨNG TÀU
+https://livecdn-vthcm-vnw.vieon.vn/livetv/d355b8d194b6f472e868d605231b8561/playlist.m3u8
+#https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/5646f779551189e56c6b31d8f77bc910/1689062835690/livetv/d355b8d194b6f472e868d605231b8561/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="baclieu" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png",BẠC LIÊU
+https://livecdn-vthcm-vnw.vieon.vn/livetv/ce5f65749285b050e8a50d4471428184/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="bacninh" tvg-logo="https://mytv.com.vn/upload/channel/992.png",BẮC NINH
+https://livecdn-vthcm-vnw.vieon.vn/livetv/6ab9e31de0fa22dc902c1032ff0dfc22/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="bacgiang" tvg-logo="https://mytv.com.vn/upload/channel/981.png",BẮC GIANG
+https://livecdn-vthcm-vnw.vieon.vn/livetv/dec8b8ec1b6f93fbd1ac4a90ea09333c/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="bacgiang" tvg-logo="https://mytv.com.vn/upload/channel/981.png",BẮC CẠN
+https://livecdn-vthcm-vnw.vieon.vn/livetv/90234a7fc116ce57f626f96fcb9de476/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="bentre" tvg-logo="https://mytv.com.vn/upload/channel/711.png",BẾN TRE
+https://livecdn-vthcm-vnw.vieon.vn/livetv/ad0a64f9a7fc84f78390a5ae450acfcd/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhdinh" tvg-logo="https://mytv.com.vn/upload/channel/771.png",BÌNH ĐỊNH
+https://livecdn-vthcm-vnw.vieon.vn/livetv/33f5037d9482df9986734a49c32a98d6/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong1" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1
+https://livecdn-vthcm-vnw.vieon.vn/livetv/d8bae67ce818ed6b280ad78b035b8484/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong2" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png",BTV 2
+https://livecdn-vthcm-vnw.vieon.vn/livetv/d224c1504643dd5022491532f84ce7ab/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong3" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-3_162952994448.jpg",BTV 3
+https://livecdn-vthcm-vnw.vieon.vn/livetv/2d138d290201783c6b1219b249400e83/playlist.m3u8
 
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="http://tv.linkweb.top/image/thuanviet.png",HTVC THUẦN VIỆT
-https://livecdn-vthcm-vnw.vieon.vn/livetv/1b2089ecd9f259dfc6700a1cd08a6afc/playlist.m3u8
-#https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/9d86b8f4202fdc8f2b551a1d92be0300/1689061464950/livetv/1b2089ecd9f259dfc6700a1cd08a6afc/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="http://tv.linkweb.top/image/thuanviet.png",HTVC THUẦN VIỆT HD
-https://livecdn-vthcm-vnw.vieon.vn/livetv/c5ca04c91149a945c74c9f62c12d78c2/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC PHỤ NỮ
-https://livecdn-vthcm-vnw.vieon.vn/livetv/db7cbd168f683a415f970b3ccc31e2b1/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC GIA ĐÌNH
-https://livecdn-vthcm-vnw.vieon.vn/livetv/eb22dc424b2b5f6dc465251ef7719271/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcphimhd" tvg-logo="https://mytv.com.vn/upload/channel/77.png",HTVC PHIM
-https://livecdn-vthcm-vnw.vieon.vn/livetv/59b0a6687f2273069f2dfb0fecb9e03d/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/s0vOaKP.png",HTVC Plus
-https://livecdn-vthcm-vnw.vieon.vn/livetv/e74fd2dce10d3e3214a67179927ae5f1/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC CA NHẠC
-https://livecdn-vthcm-vnw.vieon.vn/livetv/b565c337b64d304f3f13f8848451e6ec/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/JfdYcaZ.png",HTVC DU LỊCH
-https://livecdn-vthcm-vnw.vieon.vn/livetv/38c4313cc4259dc1319176800bf3ae4a/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/JfdYcaZ.png",VSGSHOP
-https://livecdn-vthcm-vnw.vieon.vn/livetv/e22ce5c2f706f68069241c7ce7c5e123/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong4" tvg-logo="https://imgur.com/bAszEEm.png",BTV 4 IMOVIES
+https://livecdn-vthcm-vnw.vieon.vn/livetv/2d138d290201783c6b1219b249400e83/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong6" tvg-logo="https://4movi.net/uploads/tv_image/btv6.png",BTV6
+https://livecdn-vthcm-vnw.vieon.vn/livetv/6efdc93bf135f14e729cea4653a5e674/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhduong6" tvg-logo="https://4movi.net/uploads/tv_image/btv6.png",BTV11
+https://livecdn-vthcm-vnw.vieon.vn/livetv/2378affd3ff5e6f75000741f5d099da9/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhphuoc1" tvg-logo="https://mytv.com.vn/upload/channel/931.png",BÌNH PHƯỚC 1 BPTV1
+https://livecdn-vthcm-vnw.vieon.vn/livetv/408f876da3e5144b6c5ba55af9efa551/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhphuoc2" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/bptv2.png",BÌNH PHƯỚC 2 HomeTV
+https://livecdn-vthcm-vnw.vieon.vn/livetv/3d9548740be434b49277ccb8952af8c9/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="binhthuan" tvg-logo="https://mytv.com.vn/upload/channel/861.png",BÌNH THUẬN BTVHD
+https://hni-fpt-002-livecdn-vthcm-vnd.vieon.vn/e4e454c656dc96e32facd28c35144f80/1689063979262/livetv/618decb11a932265ef4c64679ed8d80d/tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-vnw.vieon.vn/livetv/618decb11a932265ef4c64679ed8d80d/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="tpcantho" tvg-logo="https://mytv.com.vn/upload/channel/651.png",CẦN THƠ
+https://hni-fpt-002-livecdn-vthcm-vnd.vieon.vn/bddc77fc41d5097da5f739c8063fa92d/1689064045036/livetv//tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-vnw.vieon.vn/livetv/7a3eefa65c1b20d6dbd945adcb41fa46/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="camau" tvg-logo="https://mytv.com.vn/upload/channel/691.png",CÀ MAU
+https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/a5119875cf374ff3d75f551d46c2df8e/1689064071435/livetv//tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-vnw.vieon.vn/livetv/e5566ce84dbd12af9b594911da257b70/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="dongthap2" tvg-logo="hhttps://storage.googleapis.com/hinhanh1/Truyen%20hinh%20Mien%20Tay%20dong%20Thap%202.png",ĐỒNG THÁP 2 Miền Tây
+https://hni-fpt-002-livecdn-vthcm-vnd.vieon.vn/2eaa9aa71a919b001b169b7d74acffeb/1689064404948/livetv//tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-vnw.vieon.vn/livetv/fd62c33380acdcbe3f384d8bba635d4b/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="dongthap2" tvg-logo="hhttps://storage.googleapis.com/hinhanh1/Truyen%20hinh%20Mien%20Tay%20dong%20Thap%202.png",ĐỒNG THÁP 1 Miền Tây
+https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/dcbb51089acf5c145b85f4b793f89a5b/1689064095789/livetv//tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-vnw.vieon.vn/livetv/c656c5d74d17c80880e8abbd619f1f16/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="dongnai1" tvg-logo="https://mytv.com.vn/upload/channel/603.png",ĐNRTV1 _ ĐỒNG NAI 1
+https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/21c2ffb5c70d252b88e8af2773526178/1689064457544/livetv/15fc82c22a6cd2ee7f77b060ae195b7e/tracks-v1/index.fmp4.m3u8
+https://livecdn-vthcm-vnw.vieon.vn/livetv/15fc82c22a6cd2ee7f77b060ae195b7e/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="dongnai2" tvg-logo="https://mytv.com.vn/upload/channel/602.png",ĐNRTV2 _ ĐỒNG NAI 2
+https://livecdn-vthcm-vnw.vieon.vn/livetv/bbb8e258c989e3fccd22b2e2ed96233e/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="dongnai2" tvg-logo="https://mytv.com.vn/upload/channel/602.png",ĐNRTV2 _ ĐỒNG NAI 3
+https://livecdn-vthcm-vnw.vieon.vn/livetv/43ec53af7a809687be1a97622aec2eff/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="dienbien" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/dtv-logo.png",ĐIỆN BIÊN
+https://livecdn-vthcm-vnw.vieon.vn/livetv/f9aab8cf6a825b2de53d482713ee7ff7/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="daklak" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/drt-logo.png",ĐAKLAK
+https://livecdn-vthcm-vnw.vieon.vn/livetv/968a33da1fd6f8af7fbb2f309be64552/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="daknong" tvg-logo="https://mytv.com.vn/upload/channel/481.png",ĐẮK NÔNG
+https://livecdn-vthcm-vnw.vieon.vn/livetv/8d63beec92c317e123db3cee613edd01/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="thgialai" tvg-logo="https://mytv.com.vn/upload/channel/811.png",GIA LAI
+https://livecdn-vthcm-vnw.vieon.vn/livetv/9f4355c411f129b47035075582d97e8f/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="hanam" tvg-logo="https://mytv.com.vn/upload/channel/901.png",HÀ NAM
+https://livecdn-vthcm-vnw.vieon.vn/livetv/ea0ef63bd247a760fae50bfe70da378a/playlist.m3u8
+
+END
