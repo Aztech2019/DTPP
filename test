@@ -1,17 +1,3 @@
-#HTVC IPTVTRIKT
-
-#EXTINF:-1 group-title="HTVC" tvg-id="htv1hd" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://livecdn-vthcm-vnw.vieon.vn/livetv/93068c2a0ec828ae6ee56aa628341497/playlist.m3u8
-#https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/c744d80dde009de2380b2a136e2adfea/1688484827874/livetv/93068c2a0ec828ae6ee56aa628341497/tracks-v1/index.fmp4.m3u8(linkmain)
-#EXTINF:-1 group-title="HTVC" tvg-id="htv2hd" tvg-logo="https://i.imgur.com/7N4TgmZ.png",HTV2
-https://livecdn-vthcm-vnw.vieon.vn/livetv/84e39f2158e950a0d63d783260f7ea75/playlist.m3u8
-#https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/f9a591560f1460c8e124c56c4194f147/1689055235444/livetv/84e39f2158e950a0d63d783260f7ea75/tracks-v4/index.fmp4.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htv3hd" tvg-logo="https://static.megavie.live/media/htv3.png" group-title="THIẾU NHI",HTV3 
-https://livecdn-vthcm-vnw.vieon.vn//livetv/96f1e40fdc011502d396c2eb0c3d9627/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htv7hd" tvg-logo="https://i.imgur.com/jeZ5Fie.png",HTV7
-https://livecdn-vthcm-vnw.vieon.vn/livetv/60efe6198ce953ae1411fb164e334367/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htv9hd" tvg-logo="https://i.imgur.com/xyfYvhn.png",HTV9
-https://livecdn-vthcm-vnw.vieon.vn/livetv/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htv9hd" tvg-logo="https://i.imgur.com/xyfYvhn.png",HTVkey
-https://livecdn-vthcm-vnw.vieon.vn/livetv/91e13f38078114329b4b4d45f613924b/playlist.m3u8
-#https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/e62c90ad5999fedc5a9bc692c7a1aaf0/1689055139902/livetv/91e13f38078114329b4b4d45f613924b/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd+" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVCab STYLE
+https://livecdn-vthn-vnw.vieon.vn/livetv/db68356aa6a00a66b167c592bc5946ad/playlist.m3u8
+#https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/9fd1b62107f8048c81b7a9fcc6b5cfe8/1689055847385/livetv/db68356aa6a00a66b167c592bc5946ad/tracks-v1/index.fmp4.m3u8
