@@ -1,8 +1,8 @@
 
 #THVL 
 ####doi tracks-v4/index.fmp4.m3u8=playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong1hd" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png",VĨNH LONG 1
-https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong1hd" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png",VĨNH LONG 11
+https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong2hd" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/08/152364-THVL-2HD-460x260.png",VĨNH LONG 2
 https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/03a469e7724bdf09bf462c435f0a382c/1688913097864/livetv/8782328c0b24e63b80af42e73fabdad5/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png",VĨNH LONG 3
