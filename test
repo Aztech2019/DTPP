@@ -1,14 +1,22 @@
-##KHÁC
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="ncm" tvg-logo="https://i.upanh.org/2020/08/22/NCM_BTV10_logo.png",VOVNEW
-https://livecdn-vthcm-vnw.vieon.vn/livetv/bb305bfd08f9d3d190fb13b64a906fbc/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="anvien" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên BTV9
-https://livecdn-vthcm-vnw.vieon.vn/livetv/bb305bfd08f9d3d190fb13b64a906fbc/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="antv" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV
-https://livecdn-vthcm-vnw.vieon.vn/livetv/0b31e022261adf9fc6ce82660ed452d1/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="qpvn" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png",QPVN
-https://livecdn-vthcm-vnw.vieon.vn/livetv/fc5f01a96c49d406910925ef5f5cb48b/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="quochoi" tvg-logo="https://mytv.com.vn/upload/channel/71.png",QUỐC HỘI TV
-https://livecdn-vthcm-vnw.vieon.vn/livetv/fb86bc1b6dbac1c4371c4bc1182b6ac3/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG TV" tvg-id="ndtv" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",NHÂN DÂN TV
-https://livecdn-vthcm-vnw.vieon.vn/livetv/45c80ff751c4969a30273fe7229ebfb2/playlist.m3u8
 
+##HCTV
+
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="http://tv.linkweb.top/image/thuanviet.png",HTVC THUẦN VIỆT
+https://livecdn-vthcm-vnw.vieon.vn/livetv/1b2089ecd9f259dfc6700a1cd08a6afc/playlist.m3u8
+#https://hni-fpt-001-livecdn-vthcm-vnd.vieon.vn/9d86b8f4202fdc8f2b551a1d92be0300/1689061464950/livetv/1b2089ecd9f259dfc6700a1cd08a6afc/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="http://tv.linkweb.top/image/thuanviet.png",HTVC THUẦN VIỆT HD
+https://livecdn-vthcm-vnw.vieon.vn/livetv/c5ca04c91149a945c74c9f62c12d78c2/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC PHỤ NỮ
+https://livecdn-vthcm-vnw.vieon.vn/livetv/db7cbd168f683a415f970b3ccc31e2b1/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC GIA ĐÌNH
+https://livecdn-vthcm-vnw.vieon.vn/livetv/eb22dc424b2b5f6dc465251ef7719271/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcphimhd" tvg-logo="https://mytv.com.vn/upload/channel/77.png",HTVC PHIM
+https://livecdn-vthcm-vnw.vieon.vn/livetv/59b0a6687f2273069f2dfb0fecb9e03d/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/s0vOaKP.png",HTVC Plus
+https://livecdn-vthcm-vnw.vieon.vn/livetv/e74fd2dce10d3e3214a67179927ae5f1/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC CA NHẠC
+https://livecdn-vthcm-vnw.vieon.vn/livetv/b565c337b64d304f3f13f8848451e6ec/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/JfdYcaZ.png",HTVC DU LỊCH
+https://livecdn-vthcm-vnw.vieon.vn/livetv/38c4313cc4259dc1319176800bf3ae4a/playlist.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/JfdYcaZ.png",VSGSHOP
+https://livecdn-vthcm-vnw.vieon.vn/livetv/e22ce5c2f706f68069241c7ce7c5e123/playlist.m3u8
