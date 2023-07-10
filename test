@@ -1,3 +1,36 @@
+##VTC IPTVAZTECH
+#EXTINF:-1 group-title="VTC" tvg-id="vtc1hd" tvg-logo="https://i.imgur.com/7U7zQ5v.png",VTC1
+https://livecdn-vthn-vnw.vieon.vn/livetv/42c1afe4371b9c51439cd091a8b6ac41/playlist.m3u8
+#https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/2034f6a71dc5cea9edc9a9d2e66d7b2d/1689058734879/livetv/42c1afe4371b9c51439cd091a8b6ac41/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc2hd" tvg-logo="https://i.imgur.com/L9K7ww4.png",VTC2
+https://livecdn-vthn-vnw.vieon.vn/livetv/64c7609cb7fb8418d5fdcf6a904e0b45/playlist.m3u8
 
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab20hd" tvg-logo="https://mytv.com.vn/upload/channel/132.png",VTVCab 20 V Familye
-https://livecdn-vthn-vnw.vieon.vn/728bfc15d78362c9a47cc17f63fddad0/livetv/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc3hd" tvg-logo="https://i.imgur.com/OKJCE5h.png",𝙑𝙏𝘾 𝟯
+https://livecdn-vthn-vnw.vieon.vn/livetv/59dfd4e2d5e9542af2d7573faf8d7a1f/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc4hd" tvg-logo="https://i.imgur.com/OebScbi.png",VTC4
+https://livecdn-vthn-vnw.vieon.vn/livetv/1232e9a19c061c04c23804fea02dfa84/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc5hd" tvg-logo="https://i.imgur.com/JRbU3Nl.png",VTC5
+https://livecdn-vthn-vnw.vieon.vn/livetv/2e7961fc83aec4de1b6ed726b16a1844/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-id="vtc6hd" tvg-logo="https://i.imgur.com/FYQJhg3.png",VTC6
+https://livecdn-vthn-vnw.vieon.vn/livetv/386ebe0604ac30b07c66c559118521b8/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc7hd" tvg-logo="https://i.imgur.com/X3vK1S6.png",VTC7 - Today TV
+https://livecdn-vthn-vnw.vieon.vn/livetv/1a1782ddda155d3fa55fca3227f16c3b/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc8hd" tvg-logo="https://i.imgur.com/iQqmr2i.png",VTC8
+https://livecdn-vthn-vnw.vieon.vn/livetv/d278f1bec2626b422ffe0fce367a029f/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc9hd" tvg-logo="https://i.imgur.com/hc9D23j.png",VTC9
+https://livecdn-vthn-vnw.vieon.vn/livetv/a711926ffd5714c00c7aaa08042e764a/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc10hd" tvg-logo="https://i.imgur.com/HitkMj3.png",VTC10
+https://livecdn-vthn-vnw.vieon.vn/livetv/a27f479e600b1f5fcc0da9daa9d47d09/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc11hd" tvg-logo="https://i.imgur.com/s8wYY4I.png" group-title="THIẾU NHI",VTC11 - Kids & Family TV
+https://livecdn-vthn-vnw.vieon.vn/livetv/ae4ebdcd92f48ade383f1efd049b99ed/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc12hd" tvg-logo="https://i.imgur.com/JRhMlV7.png",VTC12
+https://livecdn-vthn-vnw.vieon.vn/livetv/c52577e8a339976fe542dd2eb759aff9/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc13hd" tvg-logo="https://i.imgur.com/n0kUCO5.png",VTC13
+https://livecdn-vthn-vnw.vieon.vn/livetv/e079a424b56efcd0ce582fa0527145f8/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc14hd" tvg-logo="https://i.imgur.com/ZbgAnDd.png",VTC14
+https://livecdn-vthn-vnw.vieon.vn/livetv/a3f34232088675f540d64a3b5e14bd66/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-id="vtc16hd" tvg-logo="https://i.imgur.com/sWbU8jO.png",VTC16
+https://livecdn-vthn-vnw.vieon.vn/livetv/c9c64a49f870b01934ff3fd92363da73/playlist.m3u8
