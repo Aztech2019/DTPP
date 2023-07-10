@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd+" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVCa
-https://livecdn-vthn-vnw.vieon.vn/livetv/d2038a9d-dbfd-48c6-849f-6799619da6fe/playlist.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd+" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTd
+https://livecdn-vthn-vnw.vieon.vn/kplus_2/manifest/kplus_sport_1/playlist.m3u8
 ##VTVCAB TRIKT
 
 #EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab 1 Vie GIẢI TRÍ
