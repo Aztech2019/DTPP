@@ -6,4 +6,7 @@ https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/ca29789f865ee2f5c8e8879e76bc77d4/1
 https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/67ff4eb11391941eb12cde57dd3f493e/1689172878677/kplus_2/manifest/kplus_sport_1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV1
 https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/livetv/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV23
+https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/32216e453db0e1b04aec44c7ed2f7403/1689173235850/qnet/live_dzones/wtv.smil/manifest.m3u8
 ##
