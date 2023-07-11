@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV11
+https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/747f1c56aeadf068ab158981e9f53508/1689124685623/kplus_2/manifest/kplus_sport_1/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV1
 http://stream.cvmtv.site/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" , VTV2
