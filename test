@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV12
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV14
 https://vips-livecdn.fptplay.net/hd1/vtv1hd_4000.stream/chunklist.m3u8
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV1
