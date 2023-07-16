@@ -1,14 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV14
-https://vips-livecdn.fptplay.net/hd1/vtv1hd_4000.stream/chunklist.m3u8
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV1
-https://hni-fpt-001-livecdn-vthn-vnw.vieon.vn/67ff4eb11391941eb12cde57dd3f493e/1689172878677/kplus_2/manifest/kplus_sport_1/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV1
-https://hni-fpt-001-livecdn-vthn-vnw.vieon.vn/livetv/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV23
-https://hni-fpt-001-livecdn-vthn-vnw.vieon.vn/32216e453db0e1b04aec44c7ed2f7403/1689173235850/qnet/live_dzones/wtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV23
-https://hni-fpt-001-livecdn-vthn-vnw.vieon.vn/32216e453db0e1b04aec44c7ed2f7403/1689173235850/qnet/live_dzones/wtv.smil/manifest.m3u8
+https://livecdn-vthn-vnw.vieon.vn/kplus_2/manifest/kplus_sport_1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" , VTV23
 https://livecdn-vthn-vnw.vieon.vn/kplus_sport_1/playlist_1080p.m3u8
